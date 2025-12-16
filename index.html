@@ -1,0 +1,245 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2022 NAICS Codes (6-digit) — Public Index</title>
+<meta name="description" content="Searchable public index of 2022 NAICS 6-digit U.S. national industries with titles, descriptions, hierarchy, and official NAICS.com links.">
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<style>
+  :root { --bg:#0b0c10; --card:#121317; --muted:#9aa0a6; --txt:#e8eaed; --accent:#4cc9f0; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; background:var(--bg); color:var(--txt); margin:0; }
+  header { padding: 24px 16px; background: linear-gradient(90deg,#0f2027,#203a43,#2c5364); }
+  h1 { margin:0 0 8px; font-size: 1.55rem; }
+  .container { padding:16px; max-width:1200px; margin:0 auto; }
+  .controls { display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin: 8px 0 16px; }
+  input[type="search"] { flex:1 1 420px; padding:10px 12px; border-radius:8px; border:1px solid #2a2e35; background:#151821; color:var(--txt); }
+  select { padding:10px; border-radius:8px; border:1px solid #2a2e35; background:#151821; color:var(--txt); min-width:240px; }
+  table { width:100%; border-collapse: collapse; background: var(--card); border-radius:12px; overflow:hidden; }
+  thead th { position:sticky; top:0; background:#171a22; text-align:left; padding:10px; border-bottom:1px solid #2a2e35; font-weight:600; }
+  tbody td { padding:10px; border-bottom:1px solid #222632; vertical-align: top; }
+  tbody tr:hover { background:#161b24; }
+  .code { white-space:nowrap; font-weight:600; color:#e6ff64; }
+  .title { font-weight:600; }
+  .link a { color: var(--accent); text-decoration: none; }
+  .meta { color: var(--muted); font-size:.9rem; margin:8px 0; }
+  .small { font-size:.9rem; color:var(--muted); }
+  .error { color:#ffb4b4; background:#351d1d; padding:8px 10px; border-radius:8px; border:1px solid #6a2a2a; }
+  .sr-only { position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden; }
+</style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1>2022 NAICS Codes (6-digit) — Public Index</h1>
+    <div class="small">All U.S. national industries (6-digit). Includes titles, descriptions, hierarchy, and links to NAICS.com. Optimized for Copilot Studio as a public knowledge source.</div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="controls" role="region" aria-label="Filters">
+    <label class="sr-only" for="q">Search</label>
+    <input id="q" type="search" placeholder="Search by code, title, description… (e.g., soybean, 541611, consulting)" autocomplete="off">
+    <label class="sr-only" for="sector">Filter by sector</label>
+    <select id="sector">
+      <option value="">All sectors (2‑digit)</option>
+    </select>
+    <label class="sr-only" for="subsector">Filter by subsector</label>
+    <select id="subsector">
+      <option value="">All subsectors (3‑digit)</option>
+    </select>
+  </div>
+
+  <p id="count" class="meta">Loading NAICS data…</p>
+  <div id="err" class="error" style="display:none"></div>
+
+  <table id="naics" aria-describedby="count">
+    <thead>
+      <tr>
+        <th style="width:8rem">Code</th>
+        <th style="width:18rem">Title</th>
+        <th>Description</th>
+        <th style="width:9rem">NAICS.com</th>
+        <th style="width:16rem">Sector</th>
+        <th style="width:18rem">Subsector</th>
+        <th style="width:16rem">Industry Group</th>
+        <th style="width:16rem">Parent (5‑digit)</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <p class="small" style="margin-top:12px">
+    Source: 2022 NAICS (United States). “NAICS.com” links point to the corresponding code page on
+    <a href="https://www.naics.com/search/" target="_blank" rel="noopener">NAICS.com</a>.
+  </p>
+</div>
+
+<!-- Papa Parse (CSV parser) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-3J7D4vT3nch0p9cjm8i2r+6bB0KcQ0QZ+6Zt0mYzRnfG9ZJtpykCRo8m3yY4o5Tt3f7fW2rEV8zGdGQe2d8Tog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+(function(){
+  const CSV_PATH = "./naics_2022_6digit_with_links.csv"; // must match the CSV filename in repo root
+
+  const q = document.getElementById('q');
+  const sector = document.getElementById('sector');
+  const subsector = document.getElementById('subsector');
+  const table = document.getElementById('naics');
+  const tbody = table.tBodies[0];
+  const count = document.getElementById('count');
+  const err = document.getElementById('err');
+
+  let data = [];
+  let rows = [];
+
+  function buildRow(r){
+    const tr = document.createElement('tr');
+
+    const tdCode = document.createElement('td');
+    tdCode.className = 'code';
+    tdCode.textContent = r.Code || '';
+    tr.appendChild(tdCode);
+
+    const tdTitle = document.createElement('td');
+    tdTitle.className = 'title';
+    tdTitle.textContent = r.Title || '';
+    tr.appendChild(tdTitle);
+
+    const tdDesc = document.createElement('td');
+    tdDesc.className = 'desc';
+    tdDesc.textContent = r.Description || '';
+    tr.appendChild(tdDesc);
+
+    const tdLink = document.createElement('td');
+    tdLink.className = 'link';
+    if (r.Link){
+      const a = document.createElement('a');
+      a.href = r.Link;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = "Open";
+      tdLink.appendChild(a);
+    }
+    tr.appendChild(tdLink);
+
+    const tdSec = document.createElement('td');
+    tdSec.className = 'sec';
+    tdSec.textContent = ((r.Sector_2_Code||'') + ' — ' + (r.Sector_2_Title||'')).trim();
+    tr.appendChild(tdSec);
+
+    const tdSub = document.createElement('td');
+    tdSub.className = 'subsec';
+    tdSub.textContent = ((r.Subsector_3_Code||'') + ' — ' + (r.Subsector_3_Title||'')).trim();
+    tr.appendChild(tdSub);
+
+    const tdGrp = document.createElement('td');
+    tdGrp.className = 'group';
+    tdGrp.textContent = ((r.Group_4_Code||'') + ' — ' + (r.Group_4_Title||'')).trim();
+    tr.appendChild(tdGrp);
+
+    const tdPar = document.createElement('td');
+    tdPar.className = 'parent';
+    tdPar.textContent = ((r.Parent_5_Code||'') + ' — ' + (r.Parent_5_Title||'')).trim();
+    tr.appendChild(tdPar);
+
+    return tr;
+  }
+
+  function populateFilters(){
+    const sectors = new Set();
+    const subsectors = new Set();
+    data.forEach(r => {
+      const s = ((r.Sector_2_Code||'') + ' — ' + (r.Sector_2_Title||'')).trim();
+      const ss= ((r.Subsector_3_Code||'') + ' — ' + (r.Subsector_3_Title||'')).trim();
+      if (s) sectors.add(s);
+      if (ss) subsectors.add(ss);
+    });
+
+    [...sectors].sort().forEach(v => {
+      const o = document.createElement('option'); o.value=v; o.textContent=v; sector.appendChild(o);
+    });
+    [...subsectors].sort().forEach(v => {
+      const o = document.createElement('option'); o.value=v; o.textContent=v; subsector.appendChild(o);
+    });
+  }
+
+  function norm(s){ return (s||'').toLowerCase(); }
+
+  function rowMatches(tr){
+    const txt = [
+      tr.querySelector('.code')?.textContent,
+      tr.querySelector('.title')?.textContent,
+      tr.querySelector('.desc')?.textContent,
+      tr.querySelector('.sec')?.textContent,
+      tr.querySelector('.subsec')?.textContent,
+      tr.querySelector('.group')?.textContent,
+      tr.querySelector('.parent')?.textContent
+    ].join(' ').toLowerCase();
+
+    const qv = norm(q.value);
+    if (qv && !txt.includes(qv)) return false;
+
+    const sv = sector.value;
+    if (sv && norm(tr.querySelector('.sec')?.textContent) !== norm(sv)) return false;
+
+    const subv = subsector.value;
+    if (subv && norm(tr.querySelector('.subsec')?.textContent) !== norm(subv)) return false;
+
+    return true;
+  }
+
+  function render(){
+    let shown = 0;
+    rows.forEach(tr => {
+      if (rowMatches(tr)){ tr.style.display=''; shown++; }
+      else { tr.style.display='none'; }
+    });
+    count.textContent = `Showing ${shown} of ${rows.length} NAICS codes`;
+  }
+
+  function loadCSV(){
+    Papa.parse(CSV_PATH, {
+      download: true,
+      header: true,
+      skipEmptyLines: true,
+      complete: (res) => {
+        data = res.data || [];
+        if (!data.length){
+          err.style.display = 'block';
+          err.textContent = 'No data rows found in CSV. Please confirm the file has a header row and at least one data row.';
+          count.textContent = '0 results';
+          return;
+        }
+
+        const frag = document.createDocumentFragment();
+        data.forEach(r => {
+          const tr = buildRow(r);
+          rows.push(tr);
+          frag.appendChild(tr);
+        });
+        tbody.appendChild(frag);
+
+        populateFilters();
+        render();
+      },
+      error: (e) => {
+        err.style.display = 'block';
+        err.textContent = 'Failed to load CSV: ' + (e && e.message ? e.message : 'Unknown error');
+        count.textContent = '0 results';
+      }
+    });
+  }
+
+  q.addEventListener('input', render);
+  sector.addEventListener('change', render);
+  subsector.addEventListener('change', render);
+
+  loadCSV();
+})();
+</script>
+</body>
+</html>
