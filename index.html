@@ -45,7 +45,15 @@
     </select>
   </div>
   <p id='count' class='meta'></p>
-  <table id='naics'>
+  
+<!-- NAICS dual-link badges (applied by Copilot) -->
+<style>
+.naics-links { display:inline-flex; gap:.4rem; align-items:center; flex-wrap:wrap; }
+.naics-badge { display:inline-block; font-size:.85rem; line-height:1; padding:.25rem .45rem;
+  border:1px solid #e5e7eb; border-radius:.4rem; background:#f8fafc; color:#334155; text-decoration:none; }
+.naics-badge:hover { text-decoration:underline; }
+</style>
+<table id='naics'>
     <thead>
       <tr>
         <th style='width:8rem'>Code</th>
@@ -15444,3 +15452,38 @@ Cross-References.</td>
 </script>
 </body>
 </html>
+
+<script>
+/**
+ * Replace the NAICS.com column (4th col) with two badges per row:
+ * NAICS.com (2022) and Census (2022), using the 6-digit code read from column 1.
+ * Works even if the original cell contains Markdown like [Open](...) or plain text.
+ */
+(function injectDualLinks(){
+  const table = document.querySelector('table');
+  if (!table) return;
+  const rows = Array.from(table.querySelectorAll('tbody tr'));
+  rows.forEach(tr => {
+    const tds = tr.querySelectorAll('td');
+    if (tds.length < 4) return;
+    const rawCode = (tds[0].innerText || tds[0].textContent || '').replace(/\s+/g, '');
+    const m = rawCode.match(/\d{6}/);
+    if (!m) return;
+    const code = m[0];
+    const naicsHref = `https://www.naics.com/naics-code-description/?code=${code}&v=2022`;
+    const censusHref = `https://www.census.gov/naics/?input=${code}&year=2022&details=${code}`;
+    const cell = tds[3];
+    while (cell.firstChild) cell.removeChild(cell.firstChild);
+    const wrap = document.createElement('span');
+    wrap.className = 'naics-links';
+    const a1 = document.createElement('a');
+    a1.className = 'naics-badge'; a1.href = naicsHref; a1.target = '_blank'; a1.rel = 'noopener';
+    a1.textContent = 'NAICS.com (2022)';
+    const a2 = document.createElement('a');
+    a2.className = 'naics-badge'; a2.href = censusHref; a2.target = '_blank'; a2.rel = 'noopener';
+    a2.textContent = 'Census (2022)';
+    wrap.appendChild(a1); wrap.appendChild(a2);
+    cell.appendChild(wrap);
+  });
+})();
+</script>
