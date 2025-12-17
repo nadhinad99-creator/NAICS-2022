@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>NAICS 2022 — Dual Links (NAICS.com + Census)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Public index of 2022 NAICS 6‑digit codes with titles, descriptions, hierarchy, and dual links to NAICS.com (2022) and Census (2022)." />
+  <style>
+    :root { --bg:#0f172a; --surface:#0b1220; --text:#e5e7eb; --muted:#94a3b8; --border:#1f2937; --accent:#60a5fa; --accent2:#34d399; }
+    html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;line-height:1.6;}
+    .container{max-width:1200px;margin:0 auto;padding:1rem 1.25rem;}
+    header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--border);z-index:10;}
+    header h1{margin:.5rem 0;font-size:clamp(1.25rem,3vw,1.75rem);} .muted{color:var(--muted);} 
+    .toolbar{display:grid;grid-template-columns:1fr auto;gap:.75rem;align-items:center;margin:1rem 0;}
+    .search-input{width:100%;padding:.65rem .85rem;border:1px solid var(--border);border-radius:.5rem;background:var(--surface);color:var(--text);} 
+    .badge{display:inline-block;padding:.25rem .55rem;border:1px solid var(--border);border-radius:.5rem;background:var(--surface);color:var(--muted);font-size:.85rem;} 
+    .table-wrap{overflow:auto;border:1px solid var(--border);border-radius:.5rem;}
+    table{width:100%;border-collapse:collapse;font-size:.95rem;}
+    thead th{position:sticky;top:0;background:var(--surface);border-bottom:1px solid var(--border);padding:.6rem;text-align:left;white-space:nowrap;}
+    tbody td{border-top:1px solid var(--border);padding:.6rem;vertical-align:top;}
+    a{color:var(--accent);text-decoration:none;} a:hover{text-decoration:underline;}
+    .naics-links{display:inline-flex;gap:.4rem;align-items:center;flex-wrap:wrap;}
+    .naics-badge{display:inline-block;font-size:.85rem;line-height:1;padding:.25rem .45rem;border:1px solid var(--border);border-radius:.4rem;background:var(--surface);color:var(--text);text-decoration:none;}
+    .naics-badge:hover{text-decoration:underline;}
+    .spinner{display:inline-block; width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin 1s linear infinite;vertical-align:middle;margin-right:.5rem;} @keyframes spin{to{transform:rotate(360deg)}}
+    tfoot td{color:var(--muted);}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>2022 NAICS — Dual Links (NAICS.com & Census)</h1>
+      <p class="muted">CSV-driven table. Column “NAICS.com” now shows <strong>Open</strong> (NAICS.com, forced 2022) and <strong>2022</strong> (Census).
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="toolbar" role="region" aria-label="Search controls">
+      <input id="search" class="search-input" type="search" placeholder="Filter by code, title, description, etc." aria-label="Filter NAICS table" />
+      <span class="badge"><span class="spinner" id="loadSpin"></span><span id="status">Loading CSV…</span></span>
+    </div>
+
+    <div class="table-wrap" role="region" aria-label="NAICS public index" tabindex="0">
+      <table id="naics-index">
+        <thead>
+          <tr>
+            <th scope="col">Code</th>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">NAICS.com</th>
+            <th scope="col">Sector</th>
+            <th scope="col">Subsector</th>
+            <th scope="col">Industry Group</th>
+            <th scope="col">Parent (5-digit)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+        <tfoot><tr><td colspan="8">© <span id="year"></span> Nur Nadhirah Abdul Ghafar · NAICS 2022</td></tr></tfoot>
+      </table>
+    </div>
+  </main>
+
+  <!-- Papa Parse for robust CSV parsing (handles quotes and newlines) -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  const CSV_PATH = './2022_NAICS_6digit_with_links.csv'; // same folder by default
+
+  const els = {
+    table: document.getElementById('naics-index'),
+    tbody: document.querySelector('#naics-index tbody'),
+    search: document.getElementById('search'),
+    status: document.getElementById('status'),
+    spin: document.getElementById('loadSpin')
+  };
+
+  function buildDualLinksCell(record){
+    const td = document.createElement('td');
+    td.className = 'link';
+
+    const wrap = document.createElement('span');
+    wrap.className = 'naics-links';
+
+    const link = (record['Link'] || '').trim();
+    if (link){
+      try {
+        const u = new URL(link);
+        if (!u.searchParams.has('v')) u.searchParams.set('v','2022'); // force vintage
+        const a = document.createElement('a');
+        a.href = u.toString(); a.target = '_blank'; a.rel = 'noopener'; a.className='naics-badge';
+        a.textContent = 'Open';
+        wrap.appendChild(a);
+      } catch(e){
+        const a = document.createElement('a');
+        a.href = link; a.target = '_blank'; a.rel = 'noopener'; a.className='naics-badge';
+        a.textContent = 'Open';
+        wrap.appendChild(a);
+      }
+    }
+
+    const code = (record['Code']||'').trim();
+    if (code){
+      const c = document.createElement('a');
+      c.href = `https://www.census.gov/naics/?input=${code}&year=2022&details=${code}`;
+      c.target = '_blank'; c.rel = 'noopener'; c.className='naics-badge';
+      c.textContent = '2022';
+      if (link) {
+        // add subtle separator spacing by flex gap; no text separator needed
+      }
+      wrap.appendChild(c);
+    }
+
+    td.appendChild(wrap);
+    return td;
+  }
+
+  function td(text){ const d=document.createElement('td'); d.textContent=text||''; return d; }
+
+  function buildRow(r){
+    const tr = document.createElement('tr');
+    tr.appendChild(td(r['Code']||''));
+    tr.appendChild(td(r['Title']||''));
+    tr.appendChild(td(r['Description']||''));
+    tr.appendChild(buildDualLinksCell(r));
+    tr.appendChild(td(joinPair(r['Sector_2_Code'], r['Sector_2_Title'])));
+    tr.appendChild(td(joinPair(r['Subsector_3_Code'], r['Subsector_3_Title'])));
+    tr.appendChild(td(joinPair(r['Group_4_Code'], r['Group_4_Title'])));
+    tr.appendChild(td(joinPair(r['Parent_5_Code'], r['Parent_5_Title'])));
+    return tr;
+  }
+
+  function joinPair(a,b){
+    const aa=(a||'').toString().trim();
+    const bb=(b||'').toString().trim();
+    if (aa && bb) return `${aa} — ${bb}`;
+    return (aa||bb||'');
+  }
+
+  function renderRows(data){
+    const frag = document.createDocumentFragment();
+    for (const r of data){
+      frag.appendChild(buildRow(r));
+    }
+    els.tbody.appendChild(frag);
+  }
+
+  function attachFilter(){
+    const rows = Array.from(els.tbody.querySelectorAll('tr'));
+    function norm(s){ return (s||'').toLowerCase(); }
+    function rowText(tr){ return norm(tr.innerText || tr.textContent); }
+    function filter(q){
+      const t = norm(q);
+      let count=0;
+      for (const tr of rows){
+        const show = !t || rowText(tr).includes(t);
+        tr.style.display = show ? '' : 'none';
+        if (show) count++;
+      }
+      els.status.textContent = `Visible rows: ${count.toLocaleString()}`;
+    }
+    els.search.addEventListener('input', e=>filter(e.target.value));
+    filter('');
+  }
+
+  // Load CSV via Papa Parse
+  Papa.parse(CSV_PATH, {
+    download: true,
+    header: true,
+    skipEmptyLines: 'greedy',
+    dynamicTyping: false,
+    complete: function(results){
+      try {
+        els.spin.style.display = 'none';
+        const data = results.data || [];
+        els.status.textContent = `Loaded ${data.length.toLocaleString()} rows`;
+        renderRows(data);
+        attachFilter();
+      } catch(err){
+        els.status.textContent = 'Render error: '+ err.message;
+      }
+    },
+    error: function(err){
+      els.spin.style.display = 'none';
+      els.status.textContent = 'CSV load error: ' + (err && err.message ? err.message : err);
+    }
+  });
+  </script>
+</body>
+</html>
