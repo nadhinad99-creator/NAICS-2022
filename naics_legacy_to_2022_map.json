@@ -1,0 +1,1138 @@
+{
+  "metadata": {
+    "generated_from": "NAICS2022_source_validation_blocked.xlsx",
+    "total_entries": 246,
+    "blocked_entries": 174,
+    "mapped_entries": 72
+  },
+  "mapping": {
+    "4421": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4422": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4431": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4461": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4471": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4481": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4482": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4483": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4511": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4512": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4522": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4523": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4531": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4532": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4533": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4539": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4541": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4542": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "4543": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "5111": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "5112": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "5151": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "5152": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "5173": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "5179": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "5191": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "31511": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "31519": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "31522": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "31524": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "31528": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "33511": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "33512": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "42432": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "42433": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "42511": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44131": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44132": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44211": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44221": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44229": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44314": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44413": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44419": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44421": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44422": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44512": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44521": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44522": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44531": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44611": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44612": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44613": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44619": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44711": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44719": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44811": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44812": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44813": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44814": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44815": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44819": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44821": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44831": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "44832": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45111": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45112": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45113": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45114": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45121": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45221": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45231": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45311": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45321": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45322": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45331": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45391": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45392": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45393": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45399": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45411": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45421": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45431": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "45439": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51111": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51112": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51113": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51114": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51119": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51121": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51511": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51512": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51521": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51731": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51791": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51911": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51912": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51913": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "51919": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52212": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52219": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52311": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52312": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52313": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52314": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52392": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "52393": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212111": {
+      "target": "212114",
+      "title": "Surface Coal Mining",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "212112": {
+      "target": "212115",
+      "title": "Underground Coal Mining",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "212113": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT Anthracite: surface→212114; underground→212115."
+    },
+    "212221": {
+      "target": "212220",
+      "title": "Gold Ore and Silver Ore Mining",
+      "definition": "This industry comprises establishments primarily engaged in developing the mine site, mining, and/or beneficiating (i.e., preparing) ores valued chiefly for their gold and/or silver content.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "212222": {
+      "target": "212220",
+      "title": "Gold Ore and Silver Ore Mining",
+      "definition": "This industry comprises establishments primarily engaged in developing the mine site, mining, and/or beneficiating (i.e., preparing) ores valued chiefly for their gold and/or silver content.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "212291": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212299": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212324": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212325": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212391": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212392": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212393": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "212399": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "315110": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "315190": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "315220": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "315240": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "315280": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "316992": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "316998": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "321213": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "321214": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "322121": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "322122": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "333244": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "333249": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "333314": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "333316": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "333318": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "333997": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "333999": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "334613": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "334614": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "335110": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "335121": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "335122": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "335129": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "335911": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "335912": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "336111": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "336112": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "337124": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "337125": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "424320": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "424330": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "425110": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "441228": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "441310": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "441320": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "442110": {
+      "target": "449110",
+      "title": "Furniture Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new furniture, such as household furniture (e.g., baby furniture, box springs, and mattresses) and outdoor furniture; office furniture (except sold in combination with office supplies and equipment); and/or furniture sold in combination with major appliances, home electronics, home furnishings, or floor coverings.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "442210": {
+      "target": "449121",
+      "title": "Floor Covering Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "442291": {
+      "target": "449122",
+      "title": "Window Treatment Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "442299": {
+      "target": "449129",
+      "title": "All Other Home Furnishings Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "443141": {
+      "target": "449210",
+      "title": "Electronics and Appliance Retailers",
+      "definition": "This industry comprises establishments primarily engaged in one of the following: (1) retailing an array of new household-type appliances and consumer-type electronic products, such as televisions, computers, electronic tablets, and cameras; (2) specializing in retailing a single line of new consumer-type electronic products; (3) retailing these new products in combination with repair and support services; (4) retailing new prepackaged or downloadable computer software (without publishing); and/or (5) retailing prerecorded audio and video media, such as downloadable digital music and video files (without production or publishing), CDs, and DVDs.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "443142": {
+      "target": "449210",
+      "title": "Electronics and Appliance Retailers",
+      "definition": "This industry comprises establishments primarily engaged in one of the following: (1) retailing an array of new household-type appliances and consumer-type electronic products, such as televisions, computers, electronic tablets, and cameras; (2) specializing in retailing a single line of new consumer-type electronic products; (3) retailing these new products in combination with repair and support services; (4) retailing new prepackaged or downloadable computer software (without publishing); and/or (5) retailing prerecorded audio and video media, such as downloadable digital music and video files (without production or publishing), CDs, and DVDs.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "444130": {
+      "target": "444140",
+      "title": "Hardware Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing a general line of new hardware items, such as tools and builders' hardware.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "444190": {
+      "target": "444180",
+      "title": "Other Building Material Dealers",
+      "definition": "This industry comprises establishments (except home centers, paint and wallpaper retailers, and hardware retailers) primarily engaged in retailing specialized lines of new building materials, such as lumber, fencing, glass, doors, plumbing fixtures and supplies, electrical supplies, prefabricated buildings and kits, and kitchen and bath cabinets and countertops to be installed.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "444210": {
+      "target": "444230",
+      "title": "Outdoor Power Equipment Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new outdoor power equipment or retailing new outdoor power equipment in combination with activities, such as repair services and selling replacement parts.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "444220": {
+      "target": "444240",
+      "title": "Nursery, Garden Center, and Farm Supply Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing nursery and garden products, such as trees, shrubs, plants, seeds, bulbs, and sod, that are predominantly grown elsewhere.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "445120": {
+      "target": "445131",
+      "title": "Convenience Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "445210": {
+      "target": "445240",
+      "title": "Meat Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing fresh, frozen, or cured meats and poultry not for immediate consumption.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "445220": {
+      "target": "445250",
+      "title": "Fish and Seafood Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing fresh, frozen, or cured fish and seafood products not for immediate consumption.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "445299": {
+      "target": "445298",
+      "title": "All Other Specialty Food Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "445310": {
+      "target": "445320",
+      "title": "Beer, Wine, and Liquor Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing packaged alcoholic beverages, such as ale, beer, wine, and liquor.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "446110": {
+      "target": "456110",
+      "title": "Pharmacies and Drug Retailers",
+      "definition": "This industry comprises establishments generally known as pharmacies and drug retailers engaged in retailing prescription or nonprescription drugs and medicines.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "446120": {
+      "target": "456120",
+      "title": "Cosmetics, Beauty Supplies, and Perfume Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing cosmetics, perfumes, toiletries, and personal grooming products.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "446130": {
+      "target": "456130",
+      "title": "Optical Goods Retailers",
+      "definition": "This industry comprises establishments primarily engaged in one or more of the following: (1) retailing and fitting prescription eyeglasses and contact lenses; (2) retailing prescription eyeglasses in combination with the grinding of lenses to order on the premises; and (3) retailing nonprescription eyeglasses.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "446191": {
+      "target": "456191",
+      "title": "Food (Health) Supplement Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "446199": {
+      "target": "456199",
+      "title": "All Other Health and Personal Care Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "447110": {
+      "target": "457110",
+      "title": "Gasoline Stations with Convenience Stores",
+      "definition": "This industry comprises establishments primarily engaged in retailing automotive fuels (e.g., gasoline, diesel fuel, gasohol, alternative fuels) in combination with a limited line of groceries.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "447190": {
+      "target": "457120",
+      "title": "Other Gasoline Stations",
+      "definition": "This industry comprises establishments generally known as gasoline stations (except those with convenience stores) or truck stops primarily engaged in (1) retailing automotive fuels (e.g., gasoline, diesel fuel, gasohol, alternative fuels) or (2) retailing these fuels in combination with activities, such as providing repair services; selling automotive oils, replacement parts, and accessories; and/or providing food services.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448110": {
+      "target": "458110",
+      "title": "Clothing and Clothing Accessories Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing general or specialized lines of new clothing and clothing accessories, such as hats and caps, costume jewelry, gloves, handbags, ties, wigs, toupees, and belts.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448120": {
+      "target": "458110",
+      "title": "Clothing and Clothing Accessories Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing general or specialized lines of new clothing and clothing accessories, such as hats and caps, costume jewelry, gloves, handbags, ties, wigs, toupees, and belts.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448130": {
+      "target": "458110",
+      "title": "Clothing and Clothing Accessories Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing general or specialized lines of new clothing and clothing accessories, such as hats and caps, costume jewelry, gloves, handbags, ties, wigs, toupees, and belts.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448140": {
+      "target": "458110",
+      "title": "Clothing and Clothing Accessories Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing general or specialized lines of new clothing and clothing accessories, such as hats and caps, costume jewelry, gloves, handbags, ties, wigs, toupees, and belts.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448150": {
+      "target": "458110",
+      "title": "Clothing and Clothing Accessories Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing general or specialized lines of new clothing and clothing accessories, such as hats and caps, costume jewelry, gloves, handbags, ties, wigs, toupees, and belts.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448190": {
+      "target": "458110",
+      "title": "Clothing and Clothing Accessories Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing general or specialized lines of new clothing and clothing accessories, such as hats and caps, costume jewelry, gloves, handbags, ties, wigs, toupees, and belts.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448210": {
+      "target": "458210",
+      "title": "Shoe Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing all types of new footwear (except hosiery and specialty sports footwear, such as golf shoes, bowling shoes, and cleated shoes).",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448310": {
+      "target": "458310",
+      "title": "Jewelry Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing one or more of the following items: (1) new jewelry (except costume jewelry); (2) new sterling and plated silverware; and (3) new watches and clocks.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "448320": {
+      "target": "458320",
+      "title": "Luggage and Leather Goods Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new luggage, briefcases, and trunks, or retailing these new products in combination with a general line of leather items (except leather apparel), such as belts, gloves, and handbags.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "451110": {
+      "target": "459110",
+      "title": "Sporting Goods Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new sporting goods, such as bicycles and bicycle parts; camping equipment; exercise and fitness equipment; athletic uniforms; specialty sports footwear; and other sporting goods, equipment, and accessories.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "451120": {
+      "target": "459120",
+      "title": "Hobby, Toy, and Game Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new toys, games, and hobby and craft supplies (except needlecraft).",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "451130": {
+      "target": "459130",
+      "title": "Sewing, Needlework, and Piece Goods Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new sewing supplies, fabrics, patterns, yarns, and other needlework accessories or retailing these products in combination with new sewing machines.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "451140": {
+      "target": "459140",
+      "title": "Musical Instrument and Supplies Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new musical instruments, sheet music, and related supplies; or retailing these new products in combination with musical instrument repair, rental, or music instruction.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "451211": {
+      "target": "459210",
+      "title": "Book Retailers and News Dealers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new books, newspapers, magazines, and other periodicals (without publishing).",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "451212": {
+      "target": "459210",
+      "title": "Book Retailers and News Dealers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new books, newspapers, magazines, and other periodicals (without publishing).",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "452210": {
+      "target": "455110",
+      "title": "Department Stores",
+      "definition": "This industry comprises establishments generally known as department stores that have separate departments for general lines of new merchandise, such as apparel, jewelry, home furnishings, and toys, with no one merchandise line predominating.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "452311": {
+      "target": "455211",
+      "title": "Warehouse Clubs and Supercenters",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "452319": {
+      "target": "455219",
+      "title": "All Other General Merchandise Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453110": {
+      "target": "459310",
+      "title": "Florists",
+      "definition": "This industry comprises establishments generally known as florists primarily engaged in retailing cut flowers, floral arrangements, and potted plants grown elsewhere.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453210": {
+      "target": "459410",
+      "title": "Office Supplies and Stationery Retailers",
+      "definition": "This industry comprises establishments primarily engaged in one or more of the following: (1) retailing new office supplies, stationery, and school supplies; (2) retailing a combination of new office equipment, furniture, and supplies; and (3) retailing new office equipment, furniture, and supplies in combination with selling new computers.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453220": {
+      "target": "459420",
+      "title": "Gift, Novelty, and Souvenir Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new gifts, novelty merchandise, souvenirs, greeting cards, seasonal and holiday decorations, and curios.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453310": {
+      "target": "459510",
+      "title": "Used Merchandise Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing used merchandise, antiques, and secondhand goods (except motor vehicles, such as automobiles, RVs, motorcycles, and boats; motor vehicle parts; tires; and mobile homes).",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453910": {
+      "target": "459910",
+      "title": "Pet and Pet Supplies Retailers",
+      "definition": "This industry comprises establishments primarily engaged in retailing pets, pet foods, and pet supplies.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453920": {
+      "target": "459920",
+      "title": "Art Dealers",
+      "definition": "This industry comprises establishments primarily engaged in retailing original and limited edition art works created by others.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453930": {
+      "target": "459930",
+      "title": "Manufactured (Mobile) Home Dealers",
+      "definition": "This industry comprises establishments primarily engaged in retailing new and/or used manufactured homes (i.e., mobile homes), parts, and equipment.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453991": {
+      "target": "459991",
+      "title": "Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "453998": {
+      "target": "459999",
+      "title": "All Other Miscellaneous Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "454110": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT Eliminated in 2022; choose product‑line 2022 code by goods/services."
+    },
+    "454210": {
+      "target": "445132",
+      "title": "Vending Machine Operators",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "454310": {
+      "target": "457210",
+      "title": "Fuel Dealers",
+      "definition": "This industry comprises establishments primarily engaged in retailing heating oil, liquefied petroleum (LP) gas, and other fuels via direct selling (i.e., home delivery).",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "454390": {
+      "target": "459999",
+      "title": "All Other Miscellaneous Retailers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "511110": {
+      "target": "513110",
+      "title": "Newspaper Publishers",
+      "definition": "This industry comprises establishments known as newspaper publishers.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "511120": {
+      "target": "513120",
+      "title": "Periodical Publishers",
+      "definition": "This industry comprises establishments known either as magazine publishers or periodical publishers.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "511130": {
+      "target": "513130",
+      "title": "Book Publishers",
+      "definition": "This industry comprises establishments known as book publishers.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "511140": {
+      "target": "513140",
+      "title": "Directory and Mailing List Publishers",
+      "definition": "This industry comprises establishments primarily engaged in publishing directories, mailing lists, and collections or compilations of fact.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "511191": {
+      "target": "513191",
+      "title": "Greeting Card Publishers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "511199": {
+      "target": "513199",
+      "title": "All Other Publishers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "511210": {
+      "target": "513210",
+      "title": "Software Publishers",
+      "definition": "This industry comprises establishments primarily engaged in software publishing.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "515111": {
+      "target": "516210",
+      "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",
+      "definition": "This industry comprises establishments primarily providing media streaming distribution services, operating social network sites, operating media broadcasting and cable television networks, and supplying information, such as news reports, articles, pictures, and features, to the news media.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "515112": {
+      "target": "516110",
+      "title": "Radio Broadcasting Stations",
+      "definition": "This industry comprises establishments primarily engaged in broadcasting aural programs by radio to the public.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "515120": {
+      "target": "516120",
+      "title": "Television Broadcasting Stations",
+      "definition": "This industry comprises establishments primarily engaged in broadcasting images together with sound.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "515210": {
+      "target": "516210",
+      "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",
+      "definition": "This industry comprises establishments primarily providing media streaming distribution services, operating social network sites, operating media broadcasting and cable television networks, and supplying information, such as news reports, articles, pictures, and features, to the news media.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "517311": {
+      "target": "517111",
+      "title": "Wired Telecommunications Carriers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "517312": {
+      "target": "517112",
+      "title": "Wireless Telecommunications Carriers (except Satellite)",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "517911": {
+      "target": "517121",
+      "title": "Telecommunications Resellers",
+      "definition": "This U.S.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "517919": {
+      "target": "517810",
+      "title": "All Other Telecommunications",
+      "definition": "This industry comprises establishments primarily engaged in providing specialized telecommunications services, such as satellite tracking, communications telemetry, and radar station operation.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "519110": {
+      "target": "516210",
+      "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",
+      "definition": "This industry comprises establishments primarily providing media streaming distribution services, operating social network sites, operating media broadcasting and cable television networks, and supplying information, such as news reports, articles, pictures, and features, to the news media.",
+      "source": "https://nadhinad99-creator.github.io/NAICS-2022/"
+    },
+    "519120": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "519130": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "519190": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "522120": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "522190": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "522293": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "522294": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "522298": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "523110": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "523120": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "523130": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "523140": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "523920": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "523930": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "811112": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "811113": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "811118": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "811211": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "811212": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "811213": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    },
+    "811219": {
+      "block": true,
+      "note": "Legacy/2017 code; excluded from NAICS‑2022 SOT"
+    }
+  }
+}
