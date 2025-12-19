@@ -79,7 +79,7 @@
 </div>
 <script>
 // ======== CONFIG: point to your hosted files ========
-const DATA_URL = "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_clean.json"; // clean array JSON
+const DATA_URL = "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_enriched.json"; // clean array JSON
 const LEGACY_MAP_URL = "https://nadhinad99-creator.github.io/NAICS-2022/naics_legacy_to_2022_map.json";
 
 // ======== STATE ========
@@ -110,7 +110,7 @@ Promise.all([
   populateFilters(NAICS);
   applySearch();
 }).catch(err => {
-  errorEl.innerHTML = `<div class="error"><strong>Unable to load dataset.</strong> ${escapeHtml(String(err))}<br>Check that <code>naics_2022_clean.json</code> is publicly reachable at <code>${escapeHtml(DATA_URL)}</code>.</div>`;
+  errorEl.innerHTML = `<div class="error"><strong>Unable to load dataset.</strong> ${escapeHtml(String(err))}<br>Check that <code>naics_2022_enriched.json</code> is publicly reachable at <code>${escapeHtml(DATA_URL)}</code>.</div>`;
 });
 
 // ======== NORMALIZE ========
