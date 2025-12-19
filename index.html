@@ -79,8 +79,8 @@
 </div>
 <script>
 // ======== CONFIG: point to your hosted files ========
-const DATA_URL = "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_enriched.json"; // clean array JSON
-const LEGACY_MAP_URL = "https://nadhinad99-creator.github.io/NAICS-2022/naics_legacy_to_2022_map.json";
+const DATA_URL = "naics_2022_enriched_fixed4.json"; // upload alongside index.html
+const LEGACY_MAP_URL = "naics_legacy_to_2022_map.json"; // upload alongside index.html
 
 // ======== STATE ========
 let NAICS = [];      // 2022 entries
@@ -110,7 +110,7 @@ Promise.all([
   populateFilters(NAICS);
   applySearch();
 }).catch(err => {
-  errorEl.innerHTML = `<div class="error"><strong>Unable to load dataset.</strong> ${escapeHtml(String(err))}<br>Check that <code>naics_2022_enriched.json</code> is publicly reachable at <code>${escapeHtml(DATA_URL)}</code>.</div>`;
+  errorEl.innerHTML = `<div class="error"><strong>Unable to load dataset.</strong> ${escapeHtml(String(err))}<br>Ensure <code>${escapeHtml(DATA_URL)}</code> is uploaded next to this HTML.</div>`;
 });
 
 // ======== NORMALIZE ========
@@ -122,7 +122,7 @@ function normalize(list){
     const Code = String(e.Code ?? e.code ?? "").trim();
     const Title = String(e.Title ?? e.title ?? "").trim();
     const Description = String(e.Description ?? e.description ?? "").trim();
-    const FirstSentence = Description ? (Description.split(/\.(\s+|$)/)[0] + ".") : "";
+    const FirstSentence = String(e.FirstSentence ?? '').trim();
     const CensusLink = e.Census_2022_link ?? e.census_2022_link ?? e.census_link ?? "";
     const NAICSComLink = e["NAICS.com_link"] ?? e.naicscom_link ?? e.naics_link ?? "";
     const Sector = e.Sector ?? e.sector ?? "";
@@ -187,10 +187,11 @@ function renderPage(){
   for(const x of slice){
     const tr = document.createElement('tr');
     const hier = [x.Sector, x.Subsector, x.IndustryGroup, x.Parent5].filter(Boolean).join(' · ');
+    const first = (x.FirstSentence && x.FirstSentence.length >= 12) ? x.FirstSentence : x.Description;
     tr.innerHTML = `
       <td><strong>${escapeHtml(x.Code)}</strong></td>
       <td>${escapeHtml(x.Title)}</td>
-      <td>${escapeHtml(x.FirstSentence || x.Description)}</td>
+      <td>${escapeHtml(first)}</td>
       <td class="hier">${escapeHtml(hier)}</td>
       <td class="links">
         ${x.CensusLink? `<a href="${escapeAttr(x.CensusLink)}" target="_blank" rel="noopener">Census 2022</a>`:''}
@@ -220,7 +221,8 @@ function exportCSV(){
   const rows = [head];
   for(const x of filtered){
     const hier = [x.Sector, x.Subsector, x.IndustryGroup, x.Parent5].filter(Boolean).join(' · ');
-    rows.push([x.Code,x.Title,(x.FirstSentence||x.Description),hier,x.CensusLink||'',x.NAICSComLink||'']);
+    const first = (x.FirstSentence && x.FirstSentence.length >= 12) ? x.FirstSentence : x.Description;
+    rows.push([x.Code,x.Title,first,hier,x.CensusLink||'',x.NAICSComLink||'']);
   }
   const csv = rows.map(r=> r.map(c=> '"'+String(c).replace(/"/g,'""')+'"').join(',')).join('\n');
   const blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
