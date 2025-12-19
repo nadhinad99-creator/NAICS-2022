@@ -2,179 +2,398 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>NAICS 2022 — Search (SOT) with Legacy Guidance</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>NAICS (2022) Search — Single Source of Truth</title>
+  <meta name="description" content="Search the 2022 NAICS codes compiled by Nadhirah. Strictly uses the curated 2022 dataset; legacy codes (e.g., 454110) are not suggested." />
   <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
-    h1 { font-size: 1.3rem; margin: 0 0 6px; }
-    .subtitle { color: #555; margin: 0 0 12px; }
-    .row { margin: 12px 0; }
-    input[type="text"]{ padding: 8px 10px; font-size: 1rem; width: 360px; }
-    button { padding: 8px 12px; }
-    .results { margin-top: 16px; }
-    .card { border: 1px solid #eee; border-radius: 8px; padding: 12px; margin-bottom: 10px; }
-    .code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
-    /* Legacy banner */
-    .legacy-banner { display: none; border: 1px solid #d93025; background: #fdecea; color: #4a1f1f; padding: 12px 16px; border-radius: 6px; margin: 12px 0; }
-    .legacy-banner .title { font-weight: 600; margin-bottom: 4px; }
-    .legacy-banner code { background: #fff; border: 1px solid #e0e0e0; padding: 2px 6px; border-radius: 4px; }
-    .legacy-banner .note { margin-top: 4px; font-size: 0.95rem; }
-    .legacy-banner .links { margin-top: 8px; font-size: 0.9rem; }
+    :root{
+      --bg:#0b1020;
+      --card:#121832;
+      --ink:#e8ecff;
+      --muted:#b7c0ff;
+      --accent:#7aa2ff;
+      --accent-2:#4ad3a8;
+      --danger:#ff6b6b;
+      --warning:#facc15;
+      --chip:#1d2546;
+      --border:#2a3566;
+      --hl:#fff2a8;
+    }
+    html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Ubuntu,Cantarell,Noto Sans,sans-serif;line-height:1.45}
+    a{color:var(--accent)}
+    header{
+      position:sticky;top:0;z-index:10;
+      background:linear-gradient(0deg, rgba(11,16,32,0.6), rgba(11,16,32,0.9));
+      backdrop-filter: blur(6px);
+      border-bottom:1px solid var(--border)
+    }
+    .wrap{max-width:1200px;margin:0 auto;padding:16px}
+    h1{font-size:clamp(20px,3vw,28px);margin:4px 0 12px}
+    .sub{color:var(--muted);font-size:13px}
+    .bar{
+      display:grid;gap:12px;grid-template-columns: 1fr auto auto auto;
+      align-items:center;margin-top:12px
+    }
+    .bar input[type=text]{
+      width:100%;padding:12px 12px;border-radius:10px;border:1px solid var(--border);
+      background:var(--card);color:var(--ink);font-size:15px;outline:none
+    }
+    .btn{
+      background:var(--accent);border:none;color:#00164d;font-weight:600;
+      padding:10px 14px;border-radius:10px;cursor:pointer;min-width:92px
+    }
+    .btn.secondary{background:var(--chip);color:var(--ink);border:1px solid var(--border)}
+    .btn.ghost{background:transparent;border:1px solid var(--border);color:var(--ink)}
+    .btn:disabled{opacity:.5;cursor:not-allowed}
+    .pill{display:inline-block;padding:4px 8px;border-radius:999px;background:var(--chip);border:1px solid var(--border);font-size:12px;color:var(--muted)}
+    .note{font-size:12px;color:var(--muted);margin-top:8px}
+    .grid{max-width:1200px;margin:16px auto;padding:0 16px}
+    .card{
+      background:var(--card);border:1px solid var(--border);border-radius:14px;
+      padding:16px;margin:12px 0
+    }
+    .summary{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+    .summary .count{font-weight:700}
+    .results table{width:100%;border-collapse:separate;border-spacing:0}
+    .results th,.results td{padding:10px 12px;border-bottom:1px dashed var(--border);vertical-align:top}
+    .results th{color:var(--muted);font-weight:600;text-align:left;font-size:13px}
+    .code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:var(--chip);border:1px solid var(--border);padding:2px 8px;border-radius:8px}
+    .links a{margin-right:10px}
+    mark{background:var(--hl);color:#111;padding:0 .2em;border-radius:3px}
+    .row-actions{white-space:nowrap}
+    .warn{color:var(--warning);font-weight:600}
+    .danger{color:var(--danger);font-weight:700}
+    .pager{display:flex;gap:8px;align-items:center;justify-content:flex-end;margin-top:12px}
+    .pager button{padding:6px 10px;border-radius:8px;border:1px solid var(--border);background:var(--chip);color:var(--ink);cursor:pointer}
+    .filters{display:flex;gap:8px;flex-wrap:wrap}
+    select{
+      background:var(--card);color:var(--ink);border:1px solid var(--border);
+      border-radius:10px;padding:10px 12px
+    }
+    footer{border-top:1px solid var(--border);margin-top:32px}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .hidden{display:none}
   </style>
 </head>
 <body>
-  <h1>NAICS 2022 — Single Source of Truth</h1>
-  <p class="subtitle">Exact 6-digit codes return 2022 records only. Legacy (non‑2022) codes are blocked with guidance.</p>
 
-  <div class="row">
-    <input id="searchInput" type="text" placeholder="Search by code (6 digits) or keywords…" />
-    <button onclick="runSearch()">Search</button>
-  </div>
+<header>
+  <div class="wrap">
+    <h1>NAICS (2022) Search</h1>
+    <div class="sub">
+      Single Source of Truth — strictly from <span class="mono">naics_2022_from_nadhirah.json</span>.
+      Legacy codes (e.g., <span class="mono">454110</span>) are intentionally excluded.
+    </div>
 
-  <!-- Legacy guidance banner (non-disruptive) -->
-  <div id="legacyBanner" class="legacy-banner" role="alert" aria-live="polite">
-    <div class="title">Legacy code blocked</div>
-    <div class="body">
-      <div>Input: <code id="legacyInputCode">—</code></div>
-      <div id="legacyRecommendedWrap" style="margin-top:4px; display:none;">
-        Recommended 2022 code: <code id="legacyRecommended">—</code>
-        <button id="applyRecommended" style="margin-left:8px;">Use this code</button>
-      </div>
-      <div class="note" id="legacyNote"></div>
-      <div class="links" id="legacyLinks" style="display:none;">
-        <a id="censusLink" target="_blank" rel="noopener">Census 2022</a> ·
-        <a id="naicsLink" target="_blank" rel="noopener">NAICS.com</a>
-      </div>
+    <div class="bar">
+      <input id="q" type="text" placeholder="Search by code (e.g., 455219) or keywords (e.g., online general merchandise, apparel retailers)…" />
+      <button class="btn" id="btnSearch">Search</button>
+      <button class="btn secondary" id="btnClear">Clear</button>
+      <button class="btn ghost" id="btnExport">Export CSV</button>
+    </div>
+
+    <div class="note">
+      Tip: Type a <b>6‑digit code</b> for an exact lookup, or words like <i>“online apparel retailer”</i>.  
+      Queries containing the legacy code <span class="mono">454110</span> will be blocked with a guidance message.
     </div>
   </div>
+</header>
 
-  <div id="results" class="results"></div>
+<main class="grid">
+  <section class="card">
+    <div class="filters">
+      <span class="pill">Filters</span>
+      <select id="sectorFilter">
+        <option value="">All sectors</option>
+      </select>
+      <select id="subsectorFilter">
+        <option value="">All subsectors</option>
+      </select>
+      <select id="groupFilter">
+        <option value="">All industry groups</option>
+      </select>
+      <span class="note">Filters are populated from the dataset once loaded.</span>
+    </div>
+  </section>
 
-  <script>
-    const COMBINED_URL = 'naics_2022_combined_with_legacy_guidance.json';
-    let indexByCode = {};          // code → minimal record
-    let naics2022   = [];          // full 2022 list
-    let guidance    = {};          // legacy → {recommended, note}
+  <section class="card summary">
+    <div><span class="count" id="count">0</span> result(s)</div>
+    <div class="pill" id="timer"></div>
+    <div class="pill" id="sourcePill">Source: NAICS_2022_SOT</div>
+  </section>
 
-    function normalizeCode(s){ const d=(s||'').replace(/\D/g,''); return d.length>=6?d.slice(0,6):d; }
+  <section class="card results">
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th style="width:110px">Code</th>
+          <th style="width:260px">Title</th>
+          <th>Description</th>
+          <th style="width:220px">Hierarchy</th>
+          <th style="width:160px">Links</th>
+        </tr>
+      </thead>
+      <tbody id="tbody">
+        <tr><td colspan="5">Loading dataset…</td></tr>
+      </tbody>
+    </table>
+    <div class="pager">
+      <button id="prevBtn">◀ Prev</button>
+      <div class="pill"><span id="pageInfo">Page 1 / 1</span></div>
+      <button id="nextBtn">Next ▶</button>
+    </div>
+  </section>
 
-    function renderResults(list){
-      const host = document.getElementById('results');
-      host.innerHTML = '';
-      if (!list || !list.length) { host.innerHTML = '<div class="card">No 2022 results to show.</div>'; return; }
-      const items = list.slice(0, 50);
-      for (const it of items) {
-        const code = it.Code || it.code || it.code6 || '';
-        const title = it.Title || it.title || '';
-        const desc = it.Description || it.description || '';
-        const html = `<div class="card"><div><span class="code">${code}</span> — <strong>${title}</strong></div><div>${desc}</div></div>`;
-        host.insertAdjacentHTML('beforeend', html);
-      }
-    }
+  <section class="card">
+    <details>
+      <summary><strong>How this works (and guardrails)</strong></summary>
+      <ul>
+        <li>All answers are returned <b>only</b> if the code exists in your 2022 dataset file.</li>
+        <li>Keyword search ranks matches in <i>Title</i> and <i>Description</i>; exact code matches rank highest.</li>
+        <li>Legacy code <span class="mono">454110</span> (2017) is explicitly blocked and replaced with guidance.</li>
+        <li>Nothing is sent to a server — everything runs locally in your browser using the JSON file.</li>
+      </ul>
+    </details>
+  </section>
+</main>
 
-    function keywordSearch(q, list){
-      q = (q || '').trim().toLowerCase();
-      if (!q) return [];
-      const words = q.split(/\s+/).filter(Boolean);
-      const score = (s)=>{
-        const t = (s||'').toLowerCase();
-        return words.reduce((acc,w)=> acc + (t.includes(w)?1:0), 0);
-      };
-      const ranked = list.map(r=>({ r, s: score(r.Title)+score(r.Description) }))
-                         .filter(o=> o.s>0)
-                         .sort((a,b)=> b.s-a.s)
-                         .map(o=> o.r);
-      return ranked;
-    }
+<footer>
+  <div class="wrap" style="padding-bottom:24px">
+    <div class="note">
+      © <span id="year"></span> NAICS (2022) — curated by Nadhirah. This page is optimized for GitHub Pages (static hosting).
+    </div>
+  </div>
+</footer>
 
-    function showLegacyBanner(inputCode, g){
-      const banner   = document.getElementById('legacyBanner');
-      const inCodeEl = document.getElementById('legacyInputCode');
-      const recWrap  = document.getElementById('legacyRecommendedWrap');
-      const recEl    = document.getElementById('legacyRecommended');
-      const noteEl   = document.getElementById('legacyNote');
-      const linksEl  = document.getElementById('legacyLinks');
-      const censusLink = document.getElementById('censusLink');
-      const naicsLink  = document.getElementById('naicsLink');
-      const applyBtn   = document.getElementById('applyRecommended');
-
-      inCodeEl.textContent = inputCode || '—';
-      noteEl.textContent   = (g && g.note) ? g.note : 'This code is not present in NAICS (2022).';
-
-      const recommended = normalizeCode(g && g.recommended);
-      if (/^\d{6}$/.test(recommended)) {
-        recWrap.style.display = '';
-        recEl.textContent     = recommended;
-        linksEl.style.display = '';
-        censusLink.href = `https://www.census.gov/naics/?input=${recommended}&year=2022&details=${recommended}`;
-        naicsLink.href  = `https://www.naics.com/naics-code-description/?code=${recommended}&v=2022`;
-        applyBtn.onclick = () => {
-          const searchBox = document.getElementById('searchInput');
-          if (searchBox) {
-            searchBox.value = recommended;
-            hideLegacyBanner();
-            runSearch();
-          }
-        };
-      } else {
-        recWrap.style.display = 'none';
-        linksEl.style.display = 'none';
-      }
-      banner.style.display = '';
-    }
-
-    function hideLegacyBanner(){
-      const banner = document.getElementById('legacyBanner');
-      if (banner) banner.style.display = 'none';
-    }
-
-    async function loadCombined(){
-      const combined = await fetch(COMBINED_URL).then(r=>r.json());
-      guidance = combined.guidance_legacy || {};
-      const embedded = Array.isArray(combined.naics_2022) ? combined.naics_2022 : [];
-
-      let data = embedded;
-      if (!data.length && combined.naics_2022_url) {
-        // Fallback to external 2022 JSON if the embedded array is empty
-        try {
-          data = await fetch(combined.naics_2022_url).then(r=>r.json());
-        } catch(e) {
-          console.error('Failed to load 2022 dataset from URL:', e);
-          data = [];
-        }
-      }
-
-      naics2022 = data;
-      indexByCode = {};
-      for (const row of naics2022) {
-        const code = String(row.Code || '').trim();
-        if (!/^\d{6}$/.test(code)) continue;
-        indexByCode[code] = row;
-      }
-    }
-
-    async function runSearch(){
-      const q    = (document.getElementById('searchInput')?.value || '');
-      const code = normalizeCode(q);
-
-      if (/^\d{6}$/.test(code)) {
-        const rec = indexByCode[code];
-        if (rec) { hideLegacyBanner(); renderResults([rec]); return; }
-        showLegacyBanner(code, guidance[code] || {});
-        renderResults([]);
-        return;
-      }
-
-      hideLegacyBanner();
-      const results = keywordSearch(q, naics2022);
-      renderResults(results);
-    }
-
-    (async function init(){
-      await loadCombined();
-      const searchBox = document.getElementById('searchInput');
-      if (searchBox) searchBox.addEventListener('input', () => hideLegacyBanner());
-    })();
-  </script>
+<script>
+const DATA_URL = 'naics_2022_from_nadhirah.json';
+const PAGE_SIZE = 20;
+let DATA = [];
+let FILTERED = [];
+let currentPage = 1;
+let lastQuery = '';
+const $$ = (sel) => document.querySelector(sel);
+const escHTML = (s='') => (s+'').replace(/[&<>"]'/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;','\'':'&#39;' }[m]));
+function download(filename, text){
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([text], {type:'text/csv;charset=utf-8;'}));
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+function highlight(text, terms){
+  if (!terms || terms.length === 0) return escHTML(text);
+  let result = escHTML(text);
+  const tokens = [...new Set(terms.map(t=>t.trim()).filter(t=>t && !/^\d{1,6}$/.test(t)))];
+  if (tokens.length === 0) return result;
+  const pattern = new RegExp('(' + tokens.map(t=>t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|') + ')','ig');
+  return result.replace(pattern, '<mark>$1</mark>');
+}
+function hierarchy(row){
+  const sec = row['Sector'] || '';
+  const sub = row['Subsector'] || '';
+  const grp = row['Industry Group'] || row['IndustryGroup'] || '';
+  const par = row['Parent (5-digit)'] || row['Parent5Digit'] || '';
+  return [sec, sub, grp, par].filter(Boolean).join('<br>');
+}
+function scoreRow(row, query, tokens){
+  let s = 0;
+  const code = (row.Code || '').trim();
+  const title = (row.Title || '').toLowerCase();
+  const desc = (row.Description || '').toLowerCase();
+  if (/^\d{6}$/.test(query)){
+    if (code === query) s += 1000;
+  } else if (/^\d{2,5}$/.test(query)){
+    if (code.startsWith(query)) s += 800 - (6 - query.length) * 30;
+  }
+  tokens.forEach(t=>{
+    if (!t) return;
+    if (title.includes(t)) s += 40;
+    if (desc.includes(t)) s += 20;
+  });
+  return s;
+}
+function legacyGuard(query){
+  return query.replace(/\D/g,'') === '454110';
+}
+function renderPage(page=1){
+  currentPage = page;
+  const tbody = $$('#tbody');
+  tbody.innerHTML = '';
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const slice = FILTERED.slice(start, start + PAGE_SIZE);
+  if (slice.length === 0){
+    tbody.innerHTML = `<tr><td colspan="5">No results found in NAICS (2022). Please refine your query (e.g., product line or activity).</td></tr>`;
+  } else {
+    const qTokens = tokenize(lastQuery);
+    slice.forEach(row=>{
+      const links = [];
+      if (row['NAICS.com_link']) links.push(`<a href="${escHTML(row['NAICS.com_link'])}" target="_blank" rel="noopener">NAICS.com</a>`);
+      if (row['Census_2022_link']) links.push(`<a href="${escHTML(row['Census_2022_link'])}" target="_blank" rel="noopener">Census 2022</a>`);
+      const codeCell = `<span class="code">${escHTML(row.Code)}</span>`;
+      const titleCell = `<div>${highlight(row.Title || '', qTokens)}</div>`;
+      const descCell = `<div>${highlight(row.Description || '', qTokens)}</div>`;
+      const hierCell = `<div>${hierarchy(row)}</div>`;
+      const linksCell = `<div class="links">${links.join(' ') || '<span class="note">n/a</span>'}</div>`;
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${codeCell}</td>
+        <td>${titleCell}</td>
+        <td>${descCell}</td>
+        <td>${hierCell}</td>
+        <td>${linksCell}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+  }
+  const totalPages = Math.max(1, Math.ceil(FILTERED.length / PAGE_SIZE));
+  $$('#pageInfo').textContent = `Page ${currentPage} / ${totalPages}`;
+  $$('#prevBtn').disabled = currentPage <= 1;
+  $$('#nextBtn').disabled = currentPage >= totalPages;
+  $$('#count').textContent = FILTERED.length;
+}
+function tokenize(q){
+  return q.toLowerCase().split(/\s+/).map(t=>t.trim()).filter(Boolean);
+}
+function applyFilters(rows){
+  const sec = $$('#sectorFilter').value;
+  const sub = $$('#subsectorFilter').value;
+  const grp = $$('#groupFilter').value;
+  return rows.filter(r=>{
+    if (sec && (r['Sector']||'') !== sec) return false;
+    if (sub && (r['Subsector']||'') !== sub) return false;
+    const g = r['Industry Group'] || r['IndustryGroup'] || '';
+    if (grp && g !== grp) return false;
+    return true;
+  });
+}
+function doSearch(){
+  const t0 = performance.now();
+  const q = $$('#q').value.trim();
+  lastQuery = q;
+  if (!q){
+    FILTERED = [];
+    renderPage(1);
+    $$('#timer').textContent = '';
+    return;
+  }
+  if (legacyGuard(q)){
+    FILTERED = [];
+    renderPage(1);
+    $$('#tbody').innerHTML = `
+      <tr>
+        <td colspan="5">
+          <span class="danger">Legacy code “454110” (Electronic Shopping and Mail‑Order Houses) is not used in NAICS 2022.</span><br>
+          Retail is classified by <b>product line</b> in 2022. Please search by product (e.g., <i>apparel retailer</i>, <i>book retailer</i>)
+          or use a 2022 code (e.g., <span class="mono">455219</span> for general merchandise retailers).
+        </td>
+      </tr>`;
+    $$('#count').textContent = '0';
+    $$('#pageInfo').textContent = 'Page 1 / 1';
+    $$('#prevBtn').disabled = true;
+    $$('#nextBtn').disabled = true;
+    $$('#timer').textContent = '';
+    return;
+  }
+  const tokens = tokenize(q);
+  let rows = DATA.slice();
+  if (/^\d{6}$/.test(q)){
+    rows = rows.filter(r => (r.Code||'') === q);
+  } else if (/^\d{2,5}$/.test(q)){
+    rows = rows.filter(r => (r.Code||'').startsWith(q));
+  } else {
+    rows = rows.filter(r=>{
+      const title = (r.Title||'').toLowerCase();
+      const desc = (r.Description||'').toLowerCase();
+      return tokens.some(tok => title.includes(tok) || desc.includes(tok));
+    });
+  }
+  rows = applyFilters(rows);
+  rows.forEach(r => r.__score = scoreRow(r, q, tokens));
+  rows.sort((a,b)=> b.__score - a.__score);
+  FILTERED = rows;
+  renderPage(1);
+  const t1 = performance.now();
+  $$('#timer').textContent = `Search in ${(t1 - t0).toFixed(1)} ms`;
+}
+function clearAll(){
+  $$('#q').value = '';
+  $$('#sectorFilter').value = '';
+  $$('#subsectorFilter').value = '';
+  $$('#groupFilter').value = '';
+  FILTERED = [];
+  renderPage(1);
+  $$('#timer').textContent = '';
+}
+async function loadData(){
+  try{
+    const res = await fetch(DATA_URL, {cache:'no-store'});
+    if (!res.ok) throw new Error(res.status + ' ' + res.statusText);
+    const json = await res.json();
+    DATA = json.map(r => ({
+      Code: (r.Code ?? '').toString(),
+      Title: r.Title ?? '',
+      Description: r.Description ?? '',
+      Sector: r['Sector'] ?? '',
+      Subsector: r['Subsector'] ?? '',
+      'Industry Group': r['Industry Group'] ?? r['IndustryGroup'] ?? '',
+      'Parent (5-digit)': r['Parent (5-digit)'] ?? r['Parent5Digit'] ?? '',
+      'NAICS.com_link': r['NAICS.com_link'] ?? '',
+      'Census_2022_link': r['Census_2022_link'] ?? ''
+    }));
+    $$('#tbody').innerHTML = `<tr><td colspan=\"5\"><span class=\"note\">Dataset loaded. Enter a query above to search.</span></td></tr>`;
+    hydrateFilters(DATA);
+  }catch(err){
+    $$('#tbody').innerHTML = `<tr><td colspan=\"5\"><span class=\"danger\">Failed to load dataset: ${escHTML(err.message)}</span><br>
+    Make sure <span class=\"mono\">${escHTML(DATA_URL)}</span> is present next to this page or update <span class=\"mono\">DATA_URL</span> in the script.</td></tr>`;
+  }
+}
+function hydrateFilters(rows){
+  const sectors = [...new Set(rows.map(r=>r['Sector']).filter(Boolean))].sort();
+  const subsectors = [...new Set(rows.map(r=>r['Subsector']).filter(Boolean))].sort();
+  const groups = [...new Set(rows.map(r=>r['Industry Group'] || r['IndustryGroup']).filter(Boolean))].sort();
+  const addOpts = (el, list) => {
+    list.forEach(v=>{
+      const opt = document.createElement('option');
+      opt.value = v;
+      opt.textContent = v;
+      el.appendChild(opt);
+    });
+  };
+  addOpts($$('#sectorFilter'), sectors);
+  addOpts($$('#subsectorFilter'), subsectors);
+  addOpts($$('#groupFilter'), groups);
+}
+function toCSV(rows, headers){
+  const head = headers.map(h => `"${h.replace(/\"/g,'\"\"')}"`).join(',');
+  const body = rows.map(r => headers.map(h => `"${(r[h] ?? '').toString().replace(/\"/g,'\"\"')}"`).join(',')).join('\n');
+  return head + '\n' + body;
+}
+function exportCSV(){
+  if (FILTERED.length === 0){
+    alert('No results to export.');
+    return;
+  }
+  const headers = ['Code','Title','Description','Sector','Subsector','Industry Group','Parent (5-digit)','NAICS.com_link','Census_2022_link'];
+  const csv = toCSV(FILTERED, headers);
+  download(`naics_2022_results_${Date.now()}.csv`, csv);
+}
+window.addEventListener('DOMContentLoaded', ()=>{
+  $$('#year').textContent = new Date().getFullYear();
+  loadData();
+  $$('#btnSearch').addEventListener('click', doSearch);
+  $$('#btnClear').addEventListener('click', clearAll);
+  $$('#btnExport').addEventListener('click', exportCSV);
+  $$('#q').addEventListener('keydown', e=>{ if (e.key === 'Enter') doSearch(); });
+  ['sectorFilter','subsectorFilter','groupFilter'].forEach(id=>{
+    document.getElementById(id).addEventListener('change', ()=>{ if ($$('#q').value.trim()) doSearch(); });
+  });
+  $$('#prevBtn').addEventListener('click', ()=> renderPage(Math.max(1, currentPage - 1)));
+  $$('#nextBtn').addEventListener('click', ()=>{
+    const totalPages = Math.max(1, Math.ceil(FILTERED.length / PAGE_SIZE));
+    renderPage(Math.min(totalPages, currentPage + 1));
+  });
+});
+</script>
 </body>
 </html>
