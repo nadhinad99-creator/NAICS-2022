@@ -1,0 +1,5062 @@
+[
+  {
+    "code": "111110",
+    "title": "Soybean Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111110"
+  },
+  {
+    "code": "111120",
+    "title": "Oilseed (except Soybean) Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111120"
+  },
+  {
+    "code": "111130",
+    "title": "Dry Pea and Bean Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111130"
+  },
+  {
+    "code": "111140",
+    "title": "Wheat Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111140"
+  },
+  {
+    "code": "111150",
+    "title": "Corn Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111150"
+  },
+  {
+    "code": "111160",
+    "title": "Rice Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111160"
+  },
+  {
+    "code": "111191",
+    "title": "Oilseed and Grain Combination Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111191"
+  },
+  {
+    "code": "111199",
+    "title": "All Other Grain Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111199"
+  },
+  {
+    "code": "111211",
+    "title": "Potato Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111211"
+  },
+  {
+    "code": "111219",
+    "title": "Other Vegetable (except Potato) and Melon Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111219"
+  },
+  {
+    "code": "111310",
+    "title": "Orange Groves",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111310"
+  },
+  {
+    "code": "111320",
+    "title": "Citrus (except Orange) Groves",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111320"
+  },
+  {
+    "code": "111331",
+    "title": "Apple Orchards",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111331"
+  },
+  {
+    "code": "111332",
+    "title": "Grape Vineyards",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111332"
+  },
+  {
+    "code": "111333",
+    "title": "Strawberry Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111333"
+  },
+  {
+    "code": "111334",
+    "title": "Berry (except Strawberry) Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111334"
+  },
+  {
+    "code": "111335",
+    "title": "Tree Nut Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111335"
+  },
+  {
+    "code": "111336",
+    "title": "Fruit and Tree Nut Combination Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111336"
+  },
+  {
+    "code": "111339",
+    "title": "Other Noncitrus Fruit Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111339"
+  },
+  {
+    "code": "111411",
+    "title": "Mushroom Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111411"
+  },
+  {
+    "code": "111419",
+    "title": "Other Food Crops Grown Under Cover",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111419"
+  },
+  {
+    "code": "111421",
+    "title": "Nursery and Tree Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111421"
+  },
+  {
+    "code": "111422",
+    "title": "Floriculture Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111422"
+  },
+  {
+    "code": "111910",
+    "title": "Tobacco Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111910"
+  },
+  {
+    "code": "111920",
+    "title": "Cotton Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111920"
+  },
+  {
+    "code": "111930",
+    "title": "Sugarcane Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111930"
+  },
+  {
+    "code": "111940",
+    "title": "Hay Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111940"
+  },
+  {
+    "code": "111991",
+    "title": "Sugar Beet Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111991"
+  },
+  {
+    "code": "111992",
+    "title": "Peanut Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111992"
+  },
+  {
+    "code": "111998",
+    "title": "All Other Miscellaneous Crop Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#111998"
+  },
+  {
+    "code": "112111",
+    "title": "Beef Cattle Ranching and Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112111"
+  },
+  {
+    "code": "112112",
+    "title": "Cattle Feedlots",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112112"
+  },
+  {
+    "code": "112120",
+    "title": "Dairy Cattle and Milk Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112120"
+  },
+  {
+    "code": "112130",
+    "title": "Dual-Purpose Cattle Ranching and Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112130"
+  },
+  {
+    "code": "112210",
+    "title": "Hog and Pig Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112210"
+  },
+  {
+    "code": "112310",
+    "title": "Chicken Egg Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112310"
+  },
+  {
+    "code": "112320",
+    "title": "Broilers and Other Meat Type Chicken Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112320"
+  },
+  {
+    "code": "112330",
+    "title": "Turkey Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112330"
+  },
+  {
+    "code": "112340",
+    "title": "Poultry Hatcheries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112340"
+  },
+  {
+    "code": "112390",
+    "title": "Other Poultry Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112390"
+  },
+  {
+    "code": "112410",
+    "title": "Sheep Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112410"
+  },
+  {
+    "code": "112420",
+    "title": "Goat Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112420"
+  },
+  {
+    "code": "112511",
+    "title": "Finfish Farming and Fish Hatcheries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112511"
+  },
+  {
+    "code": "112512",
+    "title": "Shellfish Farming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112512"
+  },
+  {
+    "code": "112519",
+    "title": "Other Aquaculture",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112519"
+  },
+  {
+    "code": "112910",
+    "title": "Apiculture",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112910"
+  },
+  {
+    "code": "112920",
+    "title": "Horses and Other Equine Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112920"
+  },
+  {
+    "code": "112930",
+    "title": "Fur-Bearing Animal and Rabbit Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112930"
+  },
+  {
+    "code": "112990",
+    "title": "All Other Animal Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#112990"
+  },
+  {
+    "code": "113110",
+    "title": "Timber Tract Operations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#113110"
+  },
+  {
+    "code": "113210",
+    "title": "Forest Nurseries and Gathering of Forest Products",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#113210"
+  },
+  {
+    "code": "113310",
+    "title": "Logging",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#113310"
+  },
+  {
+    "code": "114111",
+    "title": "Finfish Fishing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#114111"
+  },
+  {
+    "code": "114112",
+    "title": "Shellfish Fishing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#114112"
+  },
+  {
+    "code": "114119",
+    "title": "Other Marine Fishing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#114119"
+  },
+  {
+    "code": "114210",
+    "title": "Hunting and Trapping",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#114210"
+  },
+  {
+    "code": "115111",
+    "title": "Cotton Ginning",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115111"
+  },
+  {
+    "code": "115112",
+    "title": "Soil Preparation, Planting, and Cultivating",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115112"
+  },
+  {
+    "code": "115113",
+    "title": "Crop Harvesting, Primarily by Machine",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115113"
+  },
+  {
+    "code": "115114",
+    "title": "Postharvest Crop Activities (except Cotton Ginning)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115114"
+  },
+  {
+    "code": "115115",
+    "title": "Farm Labor Contractors and Crew Leaders",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115115"
+  },
+  {
+    "code": "115116",
+    "title": "Farm Management Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115116"
+  },
+  {
+    "code": "115210",
+    "title": "Support Activities for Animal Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115210"
+  },
+  {
+    "code": "115310",
+    "title": "Support Activities for Forestry",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#115310"
+  },
+  {
+    "code": "211120",
+    "title": "Crude Petroleum Extraction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#211120"
+  },
+  {
+    "code": "211130",
+    "title": "Natural Gas Extraction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#211130"
+  },
+  {
+    "code": "212114",
+    "title": "Surface Coal Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212114"
+  },
+  {
+    "code": "212115",
+    "title": "Underground Coal Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212115"
+  },
+  {
+    "code": "212210",
+    "title": "Iron Ore Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212210"
+  },
+  {
+    "code": "212220",
+    "title": "Gold Ore and Silver Ore Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212220"
+  },
+  {
+    "code": "212230",
+    "title": "Copper, Nickel, Lead, and Zinc Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212230"
+  },
+  {
+    "code": "212290",
+    "title": "Other Metal Ore Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212290"
+  },
+  {
+    "code": "212311",
+    "title": "Dimension Stone Mining and Quarrying",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212311"
+  },
+  {
+    "code": "212312",
+    "title": "Crushed and Broken Limestone Mining and Quarrying",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212312"
+  },
+  {
+    "code": "212313",
+    "title": "Crushed and Broken Granite Mining and Quarrying",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212313"
+  },
+  {
+    "code": "212319",
+    "title": "Other Crushed and Broken Stone Mining and Quarrying",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212319"
+  },
+  {
+    "code": "212321",
+    "title": "Construction Sand and Gravel Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212321"
+  },
+  {
+    "code": "212322",
+    "title": "Industrial Sand Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212322"
+  },
+  {
+    "code": "212323",
+    "title": "Kaolin, Clay, and Ceramic and Refractory Minerals Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212323"
+  },
+  {
+    "code": "212390",
+    "title": "Other Nonmetallic Mineral Mining and Quarrying",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#212390"
+  },
+  {
+    "code": "213111",
+    "title": "Drilling Oil and Gas Wells",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#213111"
+  },
+  {
+    "code": "213112",
+    "title": "Support Activities for Oil and Gas Operations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#213112"
+  },
+  {
+    "code": "213113",
+    "title": "Support Activities for Coal Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#213113"
+  },
+  {
+    "code": "213114",
+    "title": "Support Activities for Metal Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#213114"
+  },
+  {
+    "code": "213115",
+    "title": "Support Activities for Nonmetallic Minerals (except Fuels) Mining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#213115"
+  },
+  {
+    "code": "221111",
+    "title": "Hydroelectric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221111"
+  },
+  {
+    "code": "221112",
+    "title": "Fossil Fuel Electric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221112"
+  },
+  {
+    "code": "221113",
+    "title": "Nuclear Electric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221113"
+  },
+  {
+    "code": "221114",
+    "title": "Solar Electric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221114"
+  },
+  {
+    "code": "221115",
+    "title": "Wind Electric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221115"
+  },
+  {
+    "code": "221116",
+    "title": "Geothermal Electric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221116"
+  },
+  {
+    "code": "221117",
+    "title": "Biomass Electric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221117"
+  },
+  {
+    "code": "221118",
+    "title": "Other Electric Power Generation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221118"
+  },
+  {
+    "code": "221121",
+    "title": "Electric Bulk Power Transmission and Control",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221121"
+  },
+  {
+    "code": "221122",
+    "title": "Electric Power Distribution",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221122"
+  },
+  {
+    "code": "221210",
+    "title": "Natural Gas Distribution",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221210"
+  },
+  {
+    "code": "221310",
+    "title": "Water Supply and Irrigation Systems",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221310"
+  },
+  {
+    "code": "221320",
+    "title": "Sewage Treatment Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221320"
+  },
+  {
+    "code": "221330",
+    "title": "Steam and Air-Conditioning Supply",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#221330"
+  },
+  {
+    "code": "236115",
+    "title": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#236115"
+  },
+  {
+    "code": "236116",
+    "title": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#236116"
+  },
+  {
+    "code": "236117",
+    "title": "New Housing For-Sale Builders",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#236117"
+  },
+  {
+    "code": "236118",
+    "title": "Residential Remodelers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#236118"
+  },
+  {
+    "code": "236210",
+    "title": "Industrial Building Construction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#236210"
+  },
+  {
+    "code": "236220",
+    "title": "Commercial and Institutional Building Construction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#236220"
+  },
+  {
+    "code": "237110",
+    "title": "Water and Sewer Line and Related Structures Construction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#237110"
+  },
+  {
+    "code": "237120",
+    "title": "Oil and Gas Pipeline and Related Structures Construction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#237120"
+  },
+  {
+    "code": "237130",
+    "title": "Power and Communication Line and Related Structures Construction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#237130"
+  },
+  {
+    "code": "237210",
+    "title": "Land Subdivision",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#237210"
+  },
+  {
+    "code": "237310",
+    "title": "Highway, Street, and Bridge Construction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#237310"
+  },
+  {
+    "code": "237990",
+    "title": "Other Heavy and Civil Engineering Construction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#237990"
+  },
+  {
+    "code": "238110",
+    "title": "Poured Concrete Foundation and Structure Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238110"
+  },
+  {
+    "code": "238120",
+    "title": "Structural Steel and Precast Concrete Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238120"
+  },
+  {
+    "code": "238130",
+    "title": "Framing Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238130"
+  },
+  {
+    "code": "238140",
+    "title": "Masonry Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238140"
+  },
+  {
+    "code": "238150",
+    "title": "Glass and Glazing Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238150"
+  },
+  {
+    "code": "238160",
+    "title": "Roofing Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238160"
+  },
+  {
+    "code": "238170",
+    "title": "Siding Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238170"
+  },
+  {
+    "code": "238190",
+    "title": "Other Foundation, Structure, and Building Exterior Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238190"
+  },
+  {
+    "code": "238210",
+    "title": "Electrical Contractors and Other Wiring Installation Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238210"
+  },
+  {
+    "code": "238220",
+    "title": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238220"
+  },
+  {
+    "code": "238290",
+    "title": "Other Building Equipment Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238290"
+  },
+  {
+    "code": "238310",
+    "title": "Drywall and Insulation Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238310"
+  },
+  {
+    "code": "238320",
+    "title": "Painting and Wall Covering Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238320"
+  },
+  {
+    "code": "238330",
+    "title": "Flooring Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238330"
+  },
+  {
+    "code": "238340",
+    "title": "Tile and Terrazzo Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238340"
+  },
+  {
+    "code": "238350",
+    "title": "Finish Carpentry Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238350"
+  },
+  {
+    "code": "238390",
+    "title": "Other Building Finishing Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238390"
+  },
+  {
+    "code": "238910",
+    "title": "Site Preparation Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238910"
+  },
+  {
+    "code": "238990",
+    "title": "All Other Specialty Trade Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#238990"
+  },
+  {
+    "code": "311111",
+    "title": "Dog and Cat Food Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311111"
+  },
+  {
+    "code": "311119",
+    "title": "Other Animal Food Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311119"
+  },
+  {
+    "code": "311211",
+    "title": "Flour Milling",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311211"
+  },
+  {
+    "code": "311212",
+    "title": "Rice Milling",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311212"
+  },
+  {
+    "code": "311213",
+    "title": "Malt Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311213"
+  },
+  {
+    "code": "311221",
+    "title": "Wet Corn Milling and Starch Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311221"
+  },
+  {
+    "code": "311224",
+    "title": "Soybean and Other Oilseed Processing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311224"
+  },
+  {
+    "code": "311225",
+    "title": "Fats and Oils Refining and Blending",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311225"
+  },
+  {
+    "code": "311230",
+    "title": "Breakfast Cereal Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311230"
+  },
+  {
+    "code": "311313",
+    "title": "Beet Sugar Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311313"
+  },
+  {
+    "code": "311314",
+    "title": "Cane Sugar Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311314"
+  },
+  {
+    "code": "311340",
+    "title": "Nonchocolate Confectionery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311340"
+  },
+  {
+    "code": "311351",
+    "title": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311351"
+  },
+  {
+    "code": "311352",
+    "title": "Confectionery Manufacturing from Purchased Chocolate",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311352"
+  },
+  {
+    "code": "311411",
+    "title": "Frozen Fruit, Juice, and Vegetable Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311411"
+  },
+  {
+    "code": "311412",
+    "title": "Frozen Specialty Food Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311412"
+  },
+  {
+    "code": "311421",
+    "title": "Fruit and Vegetable Canning",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311421"
+  },
+  {
+    "code": "311422",
+    "title": "Specialty Canning",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311422"
+  },
+  {
+    "code": "311423",
+    "title": "Dried and Dehydrated Food Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311423"
+  },
+  {
+    "code": "311511",
+    "title": "Fluid Milk Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311511"
+  },
+  {
+    "code": "311512",
+    "title": "Creamery Butter Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311512"
+  },
+  {
+    "code": "311513",
+    "title": "Cheese Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311513"
+  },
+  {
+    "code": "311514",
+    "title": "Dry, Condensed, and Evaporated Dairy Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311514"
+  },
+  {
+    "code": "311520",
+    "title": "Ice Cream and Frozen Dessert Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311520"
+  },
+  {
+    "code": "311611",
+    "title": "Animal (except Poultry) Slaughtering",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311611"
+  },
+  {
+    "code": "311612",
+    "title": "Meat Processed from Carcasses",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311612"
+  },
+  {
+    "code": "311613",
+    "title": "Rendering and Meat Byproduct Processing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311613"
+  },
+  {
+    "code": "311615",
+    "title": "Poultry Processing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311615"
+  },
+  {
+    "code": "311710",
+    "title": "Seafood Product Preparation and Packaging",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311710"
+  },
+  {
+    "code": "311811",
+    "title": "Retail Bakeries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311811"
+  },
+  {
+    "code": "311812",
+    "title": "Commercial Bakeries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311812"
+  },
+  {
+    "code": "311813",
+    "title": "Frozen Cakes, Pies, and Other Pastries Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311813"
+  },
+  {
+    "code": "311821",
+    "title": "Cookie and Cracker Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311821"
+  },
+  {
+    "code": "311824",
+    "title": "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311824"
+  },
+  {
+    "code": "311830",
+    "title": "Tortilla Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311830"
+  },
+  {
+    "code": "311911",
+    "title": "Roasted Nuts and Peanut Butter Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311911"
+  },
+  {
+    "code": "311919",
+    "title": "Other Snack Food Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311919"
+  },
+  {
+    "code": "311920",
+    "title": "Coffee and Tea Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311920"
+  },
+  {
+    "code": "311930",
+    "title": "Flavoring Syrup and Concentrate Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311930"
+  },
+  {
+    "code": "311941",
+    "title": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311941"
+  },
+  {
+    "code": "311942",
+    "title": "Spice and Extract Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311942"
+  },
+  {
+    "code": "311991",
+    "title": "Perishable Prepared Food Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311991"
+  },
+  {
+    "code": "311999",
+    "title": "All Other Miscellaneous Food Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#311999"
+  },
+  {
+    "code": "312111",
+    "title": "Soft Drink Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#312111"
+  },
+  {
+    "code": "312112",
+    "title": "Bottled Water Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#312112"
+  },
+  {
+    "code": "312113",
+    "title": "Ice Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#312113"
+  },
+  {
+    "code": "312120",
+    "title": "Breweries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#312120"
+  },
+  {
+    "code": "312130",
+    "title": "Wineries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#312130"
+  },
+  {
+    "code": "312140",
+    "title": "Distilleries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#312140"
+  },
+  {
+    "code": "312230",
+    "title": "Tobacco Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#312230"
+  },
+  {
+    "code": "313110",
+    "title": "Fiber, Yarn, and Thread Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#313110"
+  },
+  {
+    "code": "313210",
+    "title": "Broadwoven Fabric Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#313210"
+  },
+  {
+    "code": "313220",
+    "title": "Narrow Fabric Mills and Schiffli Machine Embroidery",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#313220"
+  },
+  {
+    "code": "313230",
+    "title": "Nonwoven Fabric Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#313230"
+  },
+  {
+    "code": "313240",
+    "title": "Knit Fabric Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#313240"
+  },
+  {
+    "code": "313310",
+    "title": "Textile and Fabric Finishing Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#313310"
+  },
+  {
+    "code": "313320",
+    "title": "Fabric Coating Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#313320"
+  },
+  {
+    "code": "314110",
+    "title": "Carpet and Rug Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#314110"
+  },
+  {
+    "code": "314120",
+    "title": "Curtain and Linen Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#314120"
+  },
+  {
+    "code": "314910",
+    "title": "Textile Bag and Canvas Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#314910"
+  },
+  {
+    "code": "314994",
+    "title": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#314994"
+  },
+  {
+    "code": "314999",
+    "title": "All Other Miscellaneous Textile Product Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#314999"
+  },
+  {
+    "code": "315120",
+    "title": "Apparel Knitting Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#315120"
+  },
+  {
+    "code": "315210",
+    "title": "Cut and Sew Apparel Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#315210"
+  },
+  {
+    "code": "315250",
+    "title": "Cut and Sew Apparel Manufacturing (except Contractors)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#315250"
+  },
+  {
+    "code": "315990",
+    "title": "Apparel Accessories and Other Apparel Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#315990"
+  },
+  {
+    "code": "316110",
+    "title": "Leather and Hide Tanning and Finishing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#316110"
+  },
+  {
+    "code": "316210",
+    "title": "Footwear Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#316210"
+  },
+  {
+    "code": "316990",
+    "title": "Other Leather and Allied Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#316990"
+  },
+  {
+    "code": "321113",
+    "title": "Sawmills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321113"
+  },
+  {
+    "code": "321114",
+    "title": "Wood Preservation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321114"
+  },
+  {
+    "code": "321211",
+    "title": "Hardwood Veneer and Plywood Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321211"
+  },
+  {
+    "code": "321212",
+    "title": "Softwood Veneer and Plywood Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321212"
+  },
+  {
+    "code": "321215",
+    "title": "Engineered Wood Member Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321215"
+  },
+  {
+    "code": "321219",
+    "title": "Reconstituted Wood Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321219"
+  },
+  {
+    "code": "321911",
+    "title": "Wood Window and Door Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321911"
+  },
+  {
+    "code": "321912",
+    "title": "Cut Stock, Resawing Lumber, and Planing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321912"
+  },
+  {
+    "code": "321918",
+    "title": "Other Millwork (including Flooring)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321918"
+  },
+  {
+    "code": "321920",
+    "title": "Wood Container and Pallet Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321920"
+  },
+  {
+    "code": "321991",
+    "title": "Manufactured Home (Mobile Home) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321991"
+  },
+  {
+    "code": "321992",
+    "title": "Prefabricated Wood Building Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321992"
+  },
+  {
+    "code": "321999",
+    "title": "All Other Miscellaneous Wood Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#321999"
+  },
+  {
+    "code": "322110",
+    "title": "Pulp Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322110"
+  },
+  {
+    "code": "322120",
+    "title": "Paper Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322120"
+  },
+  {
+    "code": "322130",
+    "title": "Paperboard Mills",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322130"
+  },
+  {
+    "code": "322211",
+    "title": "Corrugated and Solid Fiber Box Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322211"
+  },
+  {
+    "code": "322212",
+    "title": "Folding Paperboard Box Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322212"
+  },
+  {
+    "code": "322219",
+    "title": "Other Paperboard Container Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322219"
+  },
+  {
+    "code": "322220",
+    "title": "Paper Bag and Coated and Treated Paper Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322220"
+  },
+  {
+    "code": "322230",
+    "title": "Stationery Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322230"
+  },
+  {
+    "code": "322291",
+    "title": "Sanitary Paper Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322291"
+  },
+  {
+    "code": "322299",
+    "title": "All Other Converted Paper Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#322299"
+  },
+  {
+    "code": "323111",
+    "title": "Commercial Printing (except Screen and Books)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#323111"
+  },
+  {
+    "code": "323113",
+    "title": "Commercial Screen Printing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#323113"
+  },
+  {
+    "code": "323117",
+    "title": "Books Printing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#323117"
+  },
+  {
+    "code": "323120",
+    "title": "Support Activities for Printing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#323120"
+  },
+  {
+    "code": "324110",
+    "title": "Petroleum Refineries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#324110"
+  },
+  {
+    "code": "324121",
+    "title": "Asphalt Paving Mixture and Block Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#324121"
+  },
+  {
+    "code": "324122",
+    "title": "Asphalt Shingle and Coating Materials Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#324122"
+  },
+  {
+    "code": "324191",
+    "title": "Petroleum Lubricating Oil and Grease Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#324191"
+  },
+  {
+    "code": "324199",
+    "title": "All Other Petroleum and Coal Products Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#324199"
+  },
+  {
+    "code": "325110",
+    "title": "Petrochemical Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325110"
+  },
+  {
+    "code": "325120",
+    "title": "Industrial Gas Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325120"
+  },
+  {
+    "code": "325130",
+    "title": "Synthetic Dye and Pigment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325130"
+  },
+  {
+    "code": "325180",
+    "title": "Other Basic Inorganic Chemical Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325180"
+  },
+  {
+    "code": "325193",
+    "title": "Ethyl Alcohol Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325193"
+  },
+  {
+    "code": "325194",
+    "title": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325194"
+  },
+  {
+    "code": "325199",
+    "title": "All Other Basic Organic Chemical Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325199"
+  },
+  {
+    "code": "325211",
+    "title": "Plastics Material and Resin Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325211"
+  },
+  {
+    "code": "325212",
+    "title": "Synthetic Rubber Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325212"
+  },
+  {
+    "code": "325220",
+    "title": "Artificial and Synthetic Fibers and Filaments Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325220"
+  },
+  {
+    "code": "325311",
+    "title": "Nitrogenous Fertilizer Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325311"
+  },
+  {
+    "code": "325312",
+    "title": "Phosphatic Fertilizer Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325312"
+  },
+  {
+    "code": "325314",
+    "title": "Fertilizer (Mixing Only) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325314"
+  },
+  {
+    "code": "325315",
+    "title": "Compost Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325315"
+  },
+  {
+    "code": "325320",
+    "title": "Pesticide and Other Agricultural Chemical Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325320"
+  },
+  {
+    "code": "325411",
+    "title": "Medicinal and Botanical Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325411"
+  },
+  {
+    "code": "325412",
+    "title": "Pharmaceutical Preparation Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325412"
+  },
+  {
+    "code": "325413",
+    "title": "In-Vitro Diagnostic Substance Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325413"
+  },
+  {
+    "code": "325414",
+    "title": "Biological Product (except Diagnostic) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325414"
+  },
+  {
+    "code": "325510",
+    "title": "Paint and Coating Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325510"
+  },
+  {
+    "code": "325520",
+    "title": "Adhesive Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325520"
+  },
+  {
+    "code": "325611",
+    "title": "Soap and Other Detergent Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325611"
+  },
+  {
+    "code": "325612",
+    "title": "Polish and Other Sanitation Good Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325612"
+  },
+  {
+    "code": "325613",
+    "title": "Surface Active Agent Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325613"
+  },
+  {
+    "code": "325620",
+    "title": "Toilet Preparation Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325620"
+  },
+  {
+    "code": "325910",
+    "title": "Printing Ink Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325910"
+  },
+  {
+    "code": "325920",
+    "title": "Explosives Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325920"
+  },
+  {
+    "code": "325991",
+    "title": "Custom Compounding of Purchased Resins",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325991"
+  },
+  {
+    "code": "325992",
+    "title": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325992"
+  },
+  {
+    "code": "325998",
+    "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#325998"
+  },
+  {
+    "code": "326111",
+    "title": "Plastics Bag and Pouch Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326111"
+  },
+  {
+    "code": "326112",
+    "title": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326112"
+  },
+  {
+    "code": "326113",
+    "title": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326113"
+  },
+  {
+    "code": "326121",
+    "title": "Unlaminated Plastics Profile Shape Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326121"
+  },
+  {
+    "code": "326122",
+    "title": "Plastics Pipe and Pipe Fitting Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326122"
+  },
+  {
+    "code": "326130",
+    "title": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326130"
+  },
+  {
+    "code": "326140",
+    "title": "Polystyrene Foam Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326140"
+  },
+  {
+    "code": "326150",
+    "title": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326150"
+  },
+  {
+    "code": "326160",
+    "title": "Plastics Bottle Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326160"
+  },
+  {
+    "code": "326191",
+    "title": "Plastics Plumbing Fixture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326191"
+  },
+  {
+    "code": "326199",
+    "title": "All Other Plastics Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326199"
+  },
+  {
+    "code": "326211",
+    "title": "Tire Manufacturing (except Retreading)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326211"
+  },
+  {
+    "code": "326212",
+    "title": "Tire Retreading",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326212"
+  },
+  {
+    "code": "326220",
+    "title": "Rubber and Plastics Hoses and Belting Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326220"
+  },
+  {
+    "code": "326291",
+    "title": "Rubber Product Manufacturing for Mechanical Use",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326291"
+  },
+  {
+    "code": "326299",
+    "title": "All Other Rubber Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#326299"
+  },
+  {
+    "code": "327110",
+    "title": "Pottery, Ceramics, and Plumbing Fixture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327110"
+  },
+  {
+    "code": "327120",
+    "title": "Clay Building Material and Refractories Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327120"
+  },
+  {
+    "code": "327211",
+    "title": "Flat Glass Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327211"
+  },
+  {
+    "code": "327212",
+    "title": "Other Pressed and Blown Glass and Glassware Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327212"
+  },
+  {
+    "code": "327213",
+    "title": "Glass Container Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327213"
+  },
+  {
+    "code": "327215",
+    "title": "Glass Product Manufacturing Made of Purchased Glass",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327215"
+  },
+  {
+    "code": "327310",
+    "title": "Cement Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327310"
+  },
+  {
+    "code": "327320",
+    "title": "Ready-Mix Concrete Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327320"
+  },
+  {
+    "code": "327331",
+    "title": "Concrete Block and Brick Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327331"
+  },
+  {
+    "code": "327332",
+    "title": "Concrete Pipe Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327332"
+  },
+  {
+    "code": "327390",
+    "title": "Other Concrete Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327390"
+  },
+  {
+    "code": "327410",
+    "title": "Lime Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327410"
+  },
+  {
+    "code": "327420",
+    "title": "Gypsum Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327420"
+  },
+  {
+    "code": "327910",
+    "title": "Abrasive Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327910"
+  },
+  {
+    "code": "327991",
+    "title": "Cut Stone and Stone Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327991"
+  },
+  {
+    "code": "327992",
+    "title": "Ground or Treated Mineral and Earth Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327992"
+  },
+  {
+    "code": "327993",
+    "title": "Mineral Wool Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327993"
+  },
+  {
+    "code": "327999",
+    "title": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#327999"
+  },
+  {
+    "code": "331110",
+    "title": "Iron and Steel Mills and Ferroalloy Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331110"
+  },
+  {
+    "code": "331210",
+    "title": "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331210"
+  },
+  {
+    "code": "331221",
+    "title": "Rolled Steel Shape Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331221"
+  },
+  {
+    "code": "331222",
+    "title": "Steel Wire Drawing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331222"
+  },
+  {
+    "code": "331313",
+    "title": "Alumina Refining and Primary Aluminum Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331313"
+  },
+  {
+    "code": "331314",
+    "title": "Secondary Smelting and Alloying of Aluminum",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331314"
+  },
+  {
+    "code": "331315",
+    "title": "Aluminum Sheet, Plate, and Foil Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331315"
+  },
+  {
+    "code": "331318",
+    "title": "Other Aluminum Rolling, Drawing, and Extruding",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331318"
+  },
+  {
+    "code": "331410",
+    "title": "Nonferrous Metal (except Aluminum) Smelting and Refining",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331410"
+  },
+  {
+    "code": "331420",
+    "title": "Copper Rolling, Drawing, Extruding, and Alloying",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331420"
+  },
+  {
+    "code": "331491",
+    "title": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331491"
+  },
+  {
+    "code": "331492",
+    "title": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331492"
+  },
+  {
+    "code": "331511",
+    "title": "Iron Foundries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331511"
+  },
+  {
+    "code": "331512",
+    "title": "Steel Investment Foundries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331512"
+  },
+  {
+    "code": "331513",
+    "title": "Steel Foundries (except Investment)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331513"
+  },
+  {
+    "code": "331523",
+    "title": "Nonferrous Metal Die-Casting Foundries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331523"
+  },
+  {
+    "code": "331524",
+    "title": "Aluminum Foundries (except Die-Casting)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331524"
+  },
+  {
+    "code": "331529",
+    "title": "Other Nonferrous Metal Foundries (except Die-Casting)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#331529"
+  },
+  {
+    "code": "332111",
+    "title": "Iron and Steel Forging",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332111"
+  },
+  {
+    "code": "332112",
+    "title": "Nonferrous Forging",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332112"
+  },
+  {
+    "code": "332114",
+    "title": "Custom Roll Forming",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332114"
+  },
+  {
+    "code": "332117",
+    "title": "Powder Metallurgy Part Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332117"
+  },
+  {
+    "code": "332119",
+    "title": "Metal Crown, Closure, and Other Metal Stamping (except Automotive)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332119"
+  },
+  {
+    "code": "332215",
+    "title": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332215"
+  },
+  {
+    "code": "332216",
+    "title": "Saw Blade and Handtool Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332216"
+  },
+  {
+    "code": "332311",
+    "title": "Prefabricated Metal Building and Component Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332311"
+  },
+  {
+    "code": "332312",
+    "title": "Fabricated Structural Metal Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332312"
+  },
+  {
+    "code": "332313",
+    "title": "Plate Work Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332313"
+  },
+  {
+    "code": "332321",
+    "title": "Metal Window and Door Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332321"
+  },
+  {
+    "code": "332322",
+    "title": "Sheet Metal Work Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332322"
+  },
+  {
+    "code": "332323",
+    "title": "Ornamental and Architectural Metal Work Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332323"
+  },
+  {
+    "code": "332410",
+    "title": "Power Boiler and Heat Exchanger Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332410"
+  },
+  {
+    "code": "332420",
+    "title": "Metal Tank (Heavy Gauge) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332420"
+  },
+  {
+    "code": "332431",
+    "title": "Metal Can Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332431"
+  },
+  {
+    "code": "332439",
+    "title": "Other Metal Container Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332439"
+  },
+  {
+    "code": "332510",
+    "title": "Hardware Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332510"
+  },
+  {
+    "code": "332613",
+    "title": "Spring Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332613"
+  },
+  {
+    "code": "332618",
+    "title": "Other Fabricated Wire Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332618"
+  },
+  {
+    "code": "332710",
+    "title": "Machine Shops",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332710"
+  },
+  {
+    "code": "332721",
+    "title": "Precision Turned Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332721"
+  },
+  {
+    "code": "332722",
+    "title": "Bolt, Nut, Screw, Rivet, and Washer Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332722"
+  },
+  {
+    "code": "332811",
+    "title": "Metal Heat Treating",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332811"
+  },
+  {
+    "code": "332812",
+    "title": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332812"
+  },
+  {
+    "code": "332813",
+    "title": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332813"
+  },
+  {
+    "code": "332911",
+    "title": "Industrial Valve Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332911"
+  },
+  {
+    "code": "332912",
+    "title": "Fluid Power Valve and Hose Fitting Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332912"
+  },
+  {
+    "code": "332913",
+    "title": "Plumbing Fixture Fitting and Trim Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332913"
+  },
+  {
+    "code": "332919",
+    "title": "Other Metal Valve and Pipe Fitting Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332919"
+  },
+  {
+    "code": "332991",
+    "title": "Ball and Roller Bearing Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332991"
+  },
+  {
+    "code": "332992",
+    "title": "Small Arms Ammunition Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332992"
+  },
+  {
+    "code": "332993",
+    "title": "Ammunition (except Small Arms) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332993"
+  },
+  {
+    "code": "332994",
+    "title": "Small Arms, Ordnance, and Ordnance Accessories Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332994"
+  },
+  {
+    "code": "332996",
+    "title": "Fabricated Pipe and Pipe Fitting Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332996"
+  },
+  {
+    "code": "332999",
+    "title": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#332999"
+  },
+  {
+    "code": "333111",
+    "title": "Farm Machinery and Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333111"
+  },
+  {
+    "code": "333112",
+    "title": "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333112"
+  },
+  {
+    "code": "333120",
+    "title": "Construction Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333120"
+  },
+  {
+    "code": "333131",
+    "title": "Mining Machinery and Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333131"
+  },
+  {
+    "code": "333132",
+    "title": "Oil and Gas Field Machinery and Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333132"
+  },
+  {
+    "code": "333241",
+    "title": "Food Product Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333241"
+  },
+  {
+    "code": "333242",
+    "title": "Semiconductor Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333242"
+  },
+  {
+    "code": "333243",
+    "title": "Sawmill, Woodworking, and Paper Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333243"
+  },
+  {
+    "code": "333248",
+    "title": "All Other Industrial Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333248"
+  },
+  {
+    "code": "333310",
+    "title": "Commercial and Service Industry Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333310"
+  },
+  {
+    "code": "333413",
+    "title": "Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333413"
+  },
+  {
+    "code": "333414",
+    "title": "Heating Equipment (except Warm Air Furnaces) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333414"
+  },
+  {
+    "code": "333415",
+    "title": "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333415"
+  },
+  {
+    "code": "333511",
+    "title": "Industrial Mold Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333511"
+  },
+  {
+    "code": "333514",
+    "title": "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333514"
+  },
+  {
+    "code": "333515",
+    "title": "Cutting Tool and Machine Tool Accessory Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333515"
+  },
+  {
+    "code": "333517",
+    "title": "Machine Tool Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333517"
+  },
+  {
+    "code": "333519",
+    "title": "Rolling Mill and Other Metalworking Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333519"
+  },
+  {
+    "code": "333611",
+    "title": "Turbine and Turbine Generator Set Units Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333611"
+  },
+  {
+    "code": "333612",
+    "title": "Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333612"
+  },
+  {
+    "code": "333613",
+    "title": "Mechanical Power Transmission Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333613"
+  },
+  {
+    "code": "333618",
+    "title": "Other Engine Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333618"
+  },
+  {
+    "code": "333912",
+    "title": "Air and Gas Compressor Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333912"
+  },
+  {
+    "code": "333914",
+    "title": "Measuring, Dispensing, and Other Pumping Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333914"
+  },
+  {
+    "code": "333921",
+    "title": "Elevator and Moving Stairway Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333921"
+  },
+  {
+    "code": "333922",
+    "title": "Conveyor and Conveying Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333922"
+  },
+  {
+    "code": "333923",
+    "title": "Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333923"
+  },
+  {
+    "code": "333924",
+    "title": "Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333924"
+  },
+  {
+    "code": "333991",
+    "title": "Power-Driven Handtool Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333991"
+  },
+  {
+    "code": "333992",
+    "title": "Welding and Soldering Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333992"
+  },
+  {
+    "code": "333993",
+    "title": "Packaging Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333993"
+  },
+  {
+    "code": "333994",
+    "title": "Industrial Process Furnace and Oven Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333994"
+  },
+  {
+    "code": "333995",
+    "title": "Fluid Power Cylinder and Actuator Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333995"
+  },
+  {
+    "code": "333996",
+    "title": "Fluid Power Pump and Motor Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333996"
+  },
+  {
+    "code": "333998",
+    "title": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#333998"
+  },
+  {
+    "code": "334111",
+    "title": "Electronic Computer Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334111"
+  },
+  {
+    "code": "334112",
+    "title": "Computer Storage Device Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334112"
+  },
+  {
+    "code": "334118",
+    "title": "Computer Terminal and Other Computer Peripheral Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334118"
+  },
+  {
+    "code": "334210",
+    "title": "Telephone Apparatus Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334210"
+  },
+  {
+    "code": "334220",
+    "title": "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334220"
+  },
+  {
+    "code": "334290",
+    "title": "Other Communications Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334290"
+  },
+  {
+    "code": "334310",
+    "title": "Audio and Video Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334310"
+  },
+  {
+    "code": "334412",
+    "title": "Bare Printed Circuit Board Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334412"
+  },
+  {
+    "code": "334413",
+    "title": "Semiconductor and Related Device Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334413"
+  },
+  {
+    "code": "334416",
+    "title": "Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334416"
+  },
+  {
+    "code": "334417",
+    "title": "Electronic Connector Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334417"
+  },
+  {
+    "code": "334418",
+    "title": "Printed Circuit Assembly (Electronic Assembly) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334418"
+  },
+  {
+    "code": "334419",
+    "title": "Other Electronic Component Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334419"
+  },
+  {
+    "code": "334510",
+    "title": "Electromedical and Electrotherapeutic Apparatus Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334510"
+  },
+  {
+    "code": "334511",
+    "title": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334511"
+  },
+  {
+    "code": "334512",
+    "title": "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334512"
+  },
+  {
+    "code": "334513",
+    "title": "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334513"
+  },
+  {
+    "code": "334514",
+    "title": "Totalizing Fluid Meter and Counting Device Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334514"
+  },
+  {
+    "code": "334515",
+    "title": "Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334515"
+  },
+  {
+    "code": "334516",
+    "title": "Analytical Laboratory Instrument Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334516"
+  },
+  {
+    "code": "334517",
+    "title": "Irradiation Apparatus Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334517"
+  },
+  {
+    "code": "334519",
+    "title": "Other Measuring and Controlling Device Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334519"
+  },
+  {
+    "code": "334610",
+    "title": "Manufacturing and Reproducing Magnetic and Optical Media",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#334610"
+  },
+  {
+    "code": "335131",
+    "title": "Residential Electric Lighting Fixture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335131"
+  },
+  {
+    "code": "335132",
+    "title": "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335132"
+  },
+  {
+    "code": "335139",
+    "title": "Electric Lamp Bulb and Other Lighting Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335139"
+  },
+  {
+    "code": "335210",
+    "title": "Small Electrical Appliance Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335210"
+  },
+  {
+    "code": "335220",
+    "title": "Major Household Appliance Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335220"
+  },
+  {
+    "code": "335311",
+    "title": "Power, Distribution, and Specialty Transformer Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335311"
+  },
+  {
+    "code": "335312",
+    "title": "Motor and Generator Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335312"
+  },
+  {
+    "code": "335313",
+    "title": "Switchgear and Switchboard Apparatus Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335313"
+  },
+  {
+    "code": "335314",
+    "title": "Relay and Industrial Control Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335314"
+  },
+  {
+    "code": "335910",
+    "title": "Battery Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335910"
+  },
+  {
+    "code": "335921",
+    "title": "Fiber Optic Cable Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335921"
+  },
+  {
+    "code": "335929",
+    "title": "Other Communication and Energy Wire Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335929"
+  },
+  {
+    "code": "335931",
+    "title": "Current-Carrying Wiring Device Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335931"
+  },
+  {
+    "code": "335932",
+    "title": "Noncurrent-Carrying Wiring Device Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335932"
+  },
+  {
+    "code": "335991",
+    "title": "Carbon and Graphite Product Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335991"
+  },
+  {
+    "code": "335999",
+    "title": "All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#335999"
+  },
+  {
+    "code": "336110",
+    "title": "Automobile and Light Duty Motor Vehicle Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336110"
+  },
+  {
+    "code": "336120",
+    "title": "Heavy Duty Truck Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336120"
+  },
+  {
+    "code": "336211",
+    "title": "Motor Vehicle Body Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336211"
+  },
+  {
+    "code": "336212",
+    "title": "Truck Trailer Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336212"
+  },
+  {
+    "code": "336213",
+    "title": "Motor Home Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336213"
+  },
+  {
+    "code": "336214",
+    "title": "Travel Trailer and Camper Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336214"
+  },
+  {
+    "code": "336310",
+    "title": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336310"
+  },
+  {
+    "code": "336320",
+    "title": "Motor Vehicle Electrical and Electronic Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336320"
+  },
+  {
+    "code": "336330",
+    "title": "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336330"
+  },
+  {
+    "code": "336340",
+    "title": "Motor Vehicle Brake System Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336340"
+  },
+  {
+    "code": "336350",
+    "title": "Motor Vehicle Transmission and Power Train Parts Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336350"
+  },
+  {
+    "code": "336360",
+    "title": "Motor Vehicle Seating and Interior Trim Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336360"
+  },
+  {
+    "code": "336370",
+    "title": "Motor Vehicle Metal Stamping",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336370"
+  },
+  {
+    "code": "336390",
+    "title": "Other Motor Vehicle Parts Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336390"
+  },
+  {
+    "code": "336411",
+    "title": "Aircraft Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336411"
+  },
+  {
+    "code": "336412",
+    "title": "Aircraft Engine and Engine Parts Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336412"
+  },
+  {
+    "code": "336413",
+    "title": "Other Aircraft Parts and Auxiliary Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336413"
+  },
+  {
+    "code": "336414",
+    "title": "Guided Missile and Space Vehicle Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336414"
+  },
+  {
+    "code": "336415",
+    "title": "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336415"
+  },
+  {
+    "code": "336419",
+    "title": "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336419"
+  },
+  {
+    "code": "336510",
+    "title": "Railroad Rolling Stock Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336510"
+  },
+  {
+    "code": "336611",
+    "title": "Ship Building and Repairing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336611"
+  },
+  {
+    "code": "336612",
+    "title": "Boat Building",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336612"
+  },
+  {
+    "code": "336991",
+    "title": "Motorcycle, Bicycle, and Parts Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336991"
+  },
+  {
+    "code": "336992",
+    "title": "Military Armored Vehicle, Tank, and Tank Component Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336992"
+  },
+  {
+    "code": "336999",
+    "title": "All Other Transportation Equipment Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#336999"
+  },
+  {
+    "code": "337110",
+    "title": "Wood Kitchen Cabinet and Countertop Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337110"
+  },
+  {
+    "code": "337121",
+    "title": "Upholstered Household Furniture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337121"
+  },
+  {
+    "code": "337122",
+    "title": "Nonupholstered Wood Household Furniture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337122"
+  },
+  {
+    "code": "337126",
+    "title": "Household Furniture (except Wood and Upholstered) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337126"
+  },
+  {
+    "code": "337127",
+    "title": "Institutional Furniture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337127"
+  },
+  {
+    "code": "337211",
+    "title": "Wood Office Furniture Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337211"
+  },
+  {
+    "code": "337212",
+    "title": "Custom Architectural Woodwork and Millwork Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337212"
+  },
+  {
+    "code": "337214",
+    "title": "Office Furniture (except Wood) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337214"
+  },
+  {
+    "code": "337215",
+    "title": "Showcase, Partition, Shelving, and Locker Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337215"
+  },
+  {
+    "code": "337910",
+    "title": "Mattress Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337910"
+  },
+  {
+    "code": "337920",
+    "title": "Blind and Shade Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#337920"
+  },
+  {
+    "code": "339112",
+    "title": "Surgical and Medical Instrument Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339112"
+  },
+  {
+    "code": "339113",
+    "title": "Surgical Appliance and Supplies Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339113"
+  },
+  {
+    "code": "339114",
+    "title": "Dental Equipment and Supplies Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339114"
+  },
+  {
+    "code": "339115",
+    "title": "Ophthalmic Goods Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339115"
+  },
+  {
+    "code": "339116",
+    "title": "Dental Laboratories",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339116"
+  },
+  {
+    "code": "339910",
+    "title": "Jewelry and Silverware Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339910"
+  },
+  {
+    "code": "339920",
+    "title": "Sporting and Athletic Goods Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339920"
+  },
+  {
+    "code": "339930",
+    "title": "Doll, Toy, and Game Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339930"
+  },
+  {
+    "code": "339940",
+    "title": "Office Supplies (except Paper) Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339940"
+  },
+  {
+    "code": "339950",
+    "title": "Sign Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339950"
+  },
+  {
+    "code": "339991",
+    "title": "Gasket, Packing, and Sealing Device Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339991"
+  },
+  {
+    "code": "339992",
+    "title": "Musical Instrument Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339992"
+  },
+  {
+    "code": "339993",
+    "title": "Fastener, Button, Needle, and Pin Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339993"
+  },
+  {
+    "code": "339994",
+    "title": "Broom, Brush, and Mop Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339994"
+  },
+  {
+    "code": "339995",
+    "title": "Burial Casket Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339995"
+  },
+  {
+    "code": "339999",
+    "title": "All Other Miscellaneous Manufacturing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#339999"
+  },
+  {
+    "code": "423110",
+    "title": "Automobile and Other Motor Vehicle Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423110"
+  },
+  {
+    "code": "423120",
+    "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423120"
+  },
+  {
+    "code": "423130",
+    "title": "Tire and Tube Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423130"
+  },
+  {
+    "code": "423140",
+    "title": "Motor Vehicle Parts (Used) Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423140"
+  },
+  {
+    "code": "423210",
+    "title": "Furniture Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423210"
+  },
+  {
+    "code": "423220",
+    "title": "Home Furnishing Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423220"
+  },
+  {
+    "code": "423310",
+    "title": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423310"
+  },
+  {
+    "code": "423320",
+    "title": "Brick, Stone, and Related Construction Material Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423320"
+  },
+  {
+    "code": "423330",
+    "title": "Roofing, Siding, and Insulation Material Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423330"
+  },
+  {
+    "code": "423390",
+    "title": "Other Construction Material Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423390"
+  },
+  {
+    "code": "423410",
+    "title": "Photographic Equipment and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423410"
+  },
+  {
+    "code": "423420",
+    "title": "Office Equipment Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423420"
+  },
+  {
+    "code": "423430",
+    "title": "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423430"
+  },
+  {
+    "code": "423440",
+    "title": "Other Commercial Equipment Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423440"
+  },
+  {
+    "code": "423450",
+    "title": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423450"
+  },
+  {
+    "code": "423460",
+    "title": "Ophthalmic Goods Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423460"
+  },
+  {
+    "code": "423490",
+    "title": "Other Professional Equipment and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423490"
+  },
+  {
+    "code": "423510",
+    "title": "Metal Service Centers and Other Metal Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423510"
+  },
+  {
+    "code": "423520",
+    "title": "Coal and Other Mineral and Ore Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423520"
+  },
+  {
+    "code": "423610",
+    "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423610"
+  },
+  {
+    "code": "423620",
+    "title": "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423620"
+  },
+  {
+    "code": "423690",
+    "title": "Other Electronic Parts and Equipment Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423690"
+  },
+  {
+    "code": "423710",
+    "title": "Hardware Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423710"
+  },
+  {
+    "code": "423720",
+    "title": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423720"
+  },
+  {
+    "code": "423730",
+    "title": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423730"
+  },
+  {
+    "code": "423740",
+    "title": "Refrigeration Equipment and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423740"
+  },
+  {
+    "code": "423810",
+    "title": "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423810"
+  },
+  {
+    "code": "423820",
+    "title": "Farm and Garden Machinery and Equipment Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423820"
+  },
+  {
+    "code": "423830",
+    "title": "Industrial Machinery and Equipment Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423830"
+  },
+  {
+    "code": "423840",
+    "title": "Industrial Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423840"
+  },
+  {
+    "code": "423850",
+    "title": "Service Establishment Equipment and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423850"
+  },
+  {
+    "code": "423860",
+    "title": "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423860"
+  },
+  {
+    "code": "423910",
+    "title": "Sporting and Recreational Goods and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423910"
+  },
+  {
+    "code": "423920",
+    "title": "Toy and Hobby Goods and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423920"
+  },
+  {
+    "code": "423930",
+    "title": "Recyclable Material Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423930"
+  },
+  {
+    "code": "423940",
+    "title": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423940"
+  },
+  {
+    "code": "423990",
+    "title": "Other Miscellaneous Durable Goods Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#423990"
+  },
+  {
+    "code": "424110",
+    "title": "Printing and Writing Paper Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424110"
+  },
+  {
+    "code": "424120",
+    "title": "Stationery and Office Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424120"
+  },
+  {
+    "code": "424130",
+    "title": "Industrial and Personal Service Paper Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424130"
+  },
+  {
+    "code": "424210",
+    "title": "Drugs and Druggists' Sundries Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424210"
+  },
+  {
+    "code": "424310",
+    "title": "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424310"
+  },
+  {
+    "code": "424340",
+    "title": "Footwear Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424340"
+  },
+  {
+    "code": "424350",
+    "title": "Clothing and Clothing Accessories Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424350"
+  },
+  {
+    "code": "424410",
+    "title": "General Line Grocery Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424410"
+  },
+  {
+    "code": "424420",
+    "title": "Packaged Frozen Food Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424420"
+  },
+  {
+    "code": "424430",
+    "title": "Dairy Product (except Dried or Canned) Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424430"
+  },
+  {
+    "code": "424440",
+    "title": "Poultry and Poultry Product Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424440"
+  },
+  {
+    "code": "424450",
+    "title": "Confectionery Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424450"
+  },
+  {
+    "code": "424460",
+    "title": "Fish and Seafood Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424460"
+  },
+  {
+    "code": "424470",
+    "title": "Meat and Meat Product Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424470"
+  },
+  {
+    "code": "424480",
+    "title": "Fresh Fruit and Vegetable Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424480"
+  },
+  {
+    "code": "424490",
+    "title": "Other Grocery and Related Products Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424490"
+  },
+  {
+    "code": "424510",
+    "title": "Grain and Field Bean Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424510"
+  },
+  {
+    "code": "424520",
+    "title": "Livestock Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424520"
+  },
+  {
+    "code": "424590",
+    "title": "Other Farm Product Raw Material Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424590"
+  },
+  {
+    "code": "424610",
+    "title": "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424610"
+  },
+  {
+    "code": "424690",
+    "title": "Other Chemical and Allied Products Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424690"
+  },
+  {
+    "code": "424710",
+    "title": "Petroleum Bulk Stations and Terminals",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424710"
+  },
+  {
+    "code": "424720",
+    "title": "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424720"
+  },
+  {
+    "code": "424810",
+    "title": "Beer and Ale Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424810"
+  },
+  {
+    "code": "424820",
+    "title": "Wine and Distilled Alcoholic Beverage Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424820"
+  },
+  {
+    "code": "424910",
+    "title": "Farm Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424910"
+  },
+  {
+    "code": "424920",
+    "title": "Book, Periodical, and Newspaper Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424920"
+  },
+  {
+    "code": "424930",
+    "title": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424930"
+  },
+  {
+    "code": "424940",
+    "title": "Tobacco Product and Electronic Cigarette Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424940"
+  },
+  {
+    "code": "424950",
+    "title": "Paint, Varnish, and Supplies Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424950"
+  },
+  {
+    "code": "424990",
+    "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#424990"
+  },
+  {
+    "code": "425120",
+    "title": "Wholesale Trade Agents and Brokers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#425120"
+  },
+  {
+    "code": "441110",
+    "title": "New Car Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#441110"
+  },
+  {
+    "code": "441120",
+    "title": "Used Car Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#441120"
+  },
+  {
+    "code": "441210",
+    "title": "Recreational Vehicle Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#441210"
+  },
+  {
+    "code": "441222",
+    "title": "Boat Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#441222"
+  },
+  {
+    "code": "441227",
+    "title": "Motorcycle, ATV, and All Other Motor Vehicle Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#441227"
+  },
+  {
+    "code": "441330",
+    "title": "Automotive Parts and Accessories Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#441330"
+  },
+  {
+    "code": "441340",
+    "title": "Tire Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#441340"
+  },
+  {
+    "code": "444110",
+    "title": "Home Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#444110"
+  },
+  {
+    "code": "444120",
+    "title": "Paint and Wallpaper Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#444120"
+  },
+  {
+    "code": "444140",
+    "title": "Hardware Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#444140"
+  },
+  {
+    "code": "444180",
+    "title": "Other Building Material Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#444180"
+  },
+  {
+    "code": "444230",
+    "title": "Outdoor Power Equipment Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#444230"
+  },
+  {
+    "code": "444240",
+    "title": "Nursery, Garden Center, and Farm Supply Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#444240"
+  },
+  {
+    "code": "445110",
+    "title": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445110"
+  },
+  {
+    "code": "445131",
+    "title": "Convenience Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445131"
+  },
+  {
+    "code": "445132",
+    "title": "Vending Machine Operators",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445132"
+  },
+  {
+    "code": "445230",
+    "title": "Fruit and Vegetable Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445230"
+  },
+  {
+    "code": "445240",
+    "title": "Meat Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445240"
+  },
+  {
+    "code": "445250",
+    "title": "Fish and Seafood Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445250"
+  },
+  {
+    "code": "445291",
+    "title": "Baked Goods Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445291"
+  },
+  {
+    "code": "445292",
+    "title": "Confectionery and Nut Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445292"
+  },
+  {
+    "code": "445298",
+    "title": "All Other Specialty Food Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445298"
+  },
+  {
+    "code": "445320",
+    "title": "Beer, Wine, and Liquor Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#445320"
+  },
+  {
+    "code": "449110",
+    "title": "Furniture Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#449110"
+  },
+  {
+    "code": "449121",
+    "title": "Floor Covering Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#449121"
+  },
+  {
+    "code": "449122",
+    "title": "Window Treatment Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#449122"
+  },
+  {
+    "code": "449129",
+    "title": "All Other Home Furnishings Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#449129"
+  },
+  {
+    "code": "449210",
+    "title": "Electronics and Appliance Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#449210"
+  },
+  {
+    "code": "455110",
+    "title": "Department Stores",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#455110"
+  },
+  {
+    "code": "455211",
+    "title": "Warehouse Clubs and Supercenters",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#455211"
+  },
+  {
+    "code": "455219",
+    "title": "All Other General Merchandise Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#455219"
+  },
+  {
+    "code": "456110",
+    "title": "Pharmacies and Drug Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#456110"
+  },
+  {
+    "code": "456120",
+    "title": "Cosmetics, Beauty Supplies, and Perfume Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#456120"
+  },
+  {
+    "code": "456130",
+    "title": "Optical Goods Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#456130"
+  },
+  {
+    "code": "456191",
+    "title": "Food (Health) Supplement Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#456191"
+  },
+  {
+    "code": "456199",
+    "title": "All Other Health and Personal Care Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#456199"
+  },
+  {
+    "code": "457110",
+    "title": "Gasoline Stations with Convenience Stores",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#457110"
+  },
+  {
+    "code": "457120",
+    "title": "Other Gasoline Stations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#457120"
+  },
+  {
+    "code": "457210",
+    "title": "Fuel Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#457210"
+  },
+  {
+    "code": "458110",
+    "title": "Clothing and Clothing Accessories Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#458110"
+  },
+  {
+    "code": "458210",
+    "title": "Shoe Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#458210"
+  },
+  {
+    "code": "458310",
+    "title": "Jewelry Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#458310"
+  },
+  {
+    "code": "458320",
+    "title": "Luggage and Leather Goods Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#458320"
+  },
+  {
+    "code": "459110",
+    "title": "Sporting Goods Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459110"
+  },
+  {
+    "code": "459120",
+    "title": "Hobby, Toy, and Game Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459120"
+  },
+  {
+    "code": "459130",
+    "title": "Sewing, Needlework, and Piece Goods Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459130"
+  },
+  {
+    "code": "459140",
+    "title": "Musical Instrument and Supplies Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459140"
+  },
+  {
+    "code": "459210",
+    "title": "Book Retailers and News Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459210"
+  },
+  {
+    "code": "459310",
+    "title": "Florists",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459310"
+  },
+  {
+    "code": "459410",
+    "title": "Office Supplies and Stationery Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459410"
+  },
+  {
+    "code": "459420",
+    "title": "Gift, Novelty, and Souvenir Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459420"
+  },
+  {
+    "code": "459510",
+    "title": "Used Merchandise Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459510"
+  },
+  {
+    "code": "459910",
+    "title": "Pet and Pet Supplies Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459910"
+  },
+  {
+    "code": "459920",
+    "title": "Art Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459920"
+  },
+  {
+    "code": "459930",
+    "title": "Manufactured (Mobile) Home Dealers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459930"
+  },
+  {
+    "code": "459991",
+    "title": "Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459991"
+  },
+  {
+    "code": "459999",
+    "title": "All Other Miscellaneous Retailers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#459999"
+  },
+  {
+    "code": "481111",
+    "title": "Scheduled Passenger Air Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#481111"
+  },
+  {
+    "code": "481112",
+    "title": "Scheduled Freight Air Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#481112"
+  },
+  {
+    "code": "481211",
+    "title": "Nonscheduled Chartered Passenger Air Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#481211"
+  },
+  {
+    "code": "481212",
+    "title": "Nonscheduled Chartered Freight Air Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#481212"
+  },
+  {
+    "code": "481219",
+    "title": "Other Nonscheduled Air Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#481219"
+  },
+  {
+    "code": "482111",
+    "title": "Line-Haul Railroads",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#482111"
+  },
+  {
+    "code": "482112",
+    "title": "Short Line Railroads",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#482112"
+  },
+  {
+    "code": "483111",
+    "title": "Deep Sea Freight Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#483111"
+  },
+  {
+    "code": "483112",
+    "title": "Deep Sea Passenger Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#483112"
+  },
+  {
+    "code": "483113",
+    "title": "Coastal and Great Lakes Freight Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#483113"
+  },
+  {
+    "code": "483114",
+    "title": "Coastal and Great Lakes Passenger Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#483114"
+  },
+  {
+    "code": "483211",
+    "title": "Inland Water Freight Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#483211"
+  },
+  {
+    "code": "483212",
+    "title": "Inland Water Passenger Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#483212"
+  },
+  {
+    "code": "484110",
+    "title": "General Freight Trucking, Local",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#484110"
+  },
+  {
+    "code": "484121",
+    "title": "General Freight Trucking, Long-Distance, Truckload",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#484121"
+  },
+  {
+    "code": "484122",
+    "title": "General Freight Trucking, Long-Distance, Less Than Truckload",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#484122"
+  },
+  {
+    "code": "484210",
+    "title": "Used Household and Office Goods Moving",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#484210"
+  },
+  {
+    "code": "484220",
+    "title": "Specialized Freight (except Used Goods) Trucking, Local",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#484220"
+  },
+  {
+    "code": "484230",
+    "title": "Specialized Freight (except Used Goods) Trucking, Long-Distance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#484230"
+  },
+  {
+    "code": "485111",
+    "title": "Mixed Mode Transit Systems",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485111"
+  },
+  {
+    "code": "485112",
+    "title": "Commuter Rail Systems",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485112"
+  },
+  {
+    "code": "485113",
+    "title": "Bus and Other Motor Vehicle Transit Systems",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485113"
+  },
+  {
+    "code": "485119",
+    "title": "Other Urban Transit Systems",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485119"
+  },
+  {
+    "code": "485210",
+    "title": "Interurban and Rural Bus Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485210"
+  },
+  {
+    "code": "485310",
+    "title": "Taxi and Ridesharing Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485310"
+  },
+  {
+    "code": "485320",
+    "title": "Limousine Service",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485320"
+  },
+  {
+    "code": "485410",
+    "title": "School and Employee Bus Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485410"
+  },
+  {
+    "code": "485510",
+    "title": "Charter Bus Industry",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485510"
+  },
+  {
+    "code": "485991",
+    "title": "Special Needs Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485991"
+  },
+  {
+    "code": "485999",
+    "title": "All Other Transit and Ground Passenger Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#485999"
+  },
+  {
+    "code": "486110",
+    "title": "Pipeline Transportation of Crude Oil",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#486110"
+  },
+  {
+    "code": "486210",
+    "title": "Pipeline Transportation of Natural Gas",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#486210"
+  },
+  {
+    "code": "486910",
+    "title": "Pipeline Transportation of Refined Petroleum Products",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#486910"
+  },
+  {
+    "code": "486990",
+    "title": "All Other Pipeline Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#486990"
+  },
+  {
+    "code": "487110",
+    "title": "Scenic and Sightseeing Transportation, Land",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#487110"
+  },
+  {
+    "code": "487210",
+    "title": "Scenic and Sightseeing Transportation, Water",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#487210"
+  },
+  {
+    "code": "487990",
+    "title": "Scenic and Sightseeing Transportation, Other",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#487990"
+  },
+  {
+    "code": "488111",
+    "title": "Air Traffic Control",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488111"
+  },
+  {
+    "code": "488119",
+    "title": "Other Airport Operations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488119"
+  },
+  {
+    "code": "488190",
+    "title": "Other Support Activities for Air Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488190"
+  },
+  {
+    "code": "488210",
+    "title": "Support Activities for Rail Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488210"
+  },
+  {
+    "code": "488310",
+    "title": "Port and Harbor Operations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488310"
+  },
+  {
+    "code": "488320",
+    "title": "Marine Cargo Handling",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488320"
+  },
+  {
+    "code": "488330",
+    "title": "Navigational Services to Shipping",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488330"
+  },
+  {
+    "code": "488390",
+    "title": "Other Support Activities for Water Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488390"
+  },
+  {
+    "code": "488410",
+    "title": "Motor Vehicle Towing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488410"
+  },
+  {
+    "code": "488490",
+    "title": "Other Support Activities for Road Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488490"
+  },
+  {
+    "code": "488510",
+    "title": "Freight Transportation Arrangement",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488510"
+  },
+  {
+    "code": "488991",
+    "title": "Packing and Crating",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488991"
+  },
+  {
+    "code": "488999",
+    "title": "All Other Support Activities for Transportation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#488999"
+  },
+  {
+    "code": "491110",
+    "title": "Postal Service",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#491110"
+  },
+  {
+    "code": "492110",
+    "title": "Couriers and Express Delivery Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#492110"
+  },
+  {
+    "code": "492210",
+    "title": "Local Messengers and Local Delivery",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#492210"
+  },
+  {
+    "code": "493110",
+    "title": "General Warehousing and Storage",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#493110"
+  },
+  {
+    "code": "493120",
+    "title": "Refrigerated Warehousing and Storage",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#493120"
+  },
+  {
+    "code": "493130",
+    "title": "Farm Product Warehousing and Storage",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#493130"
+  },
+  {
+    "code": "493190",
+    "title": "Other Warehousing and Storage",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#493190"
+  },
+  {
+    "code": "512110",
+    "title": "Motion Picture and Video Production",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512110"
+  },
+  {
+    "code": "512120",
+    "title": "Motion Picture and Video Distribution",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512120"
+  },
+  {
+    "code": "512131",
+    "title": "Motion Picture Theaters (except Drive-Ins)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512131"
+  },
+  {
+    "code": "512132",
+    "title": "Drive-In Motion Picture Theaters",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512132"
+  },
+  {
+    "code": "512191",
+    "title": "Teleproduction and Other Postproduction Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512191"
+  },
+  {
+    "code": "512199",
+    "title": "Other Motion Picture and Video Industries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512199"
+  },
+  {
+    "code": "512230",
+    "title": "Music Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512230"
+  },
+  {
+    "code": "512240",
+    "title": "Sound Recording Studios",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512240"
+  },
+  {
+    "code": "512250",
+    "title": "Record Production and Distribution",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512250"
+  },
+  {
+    "code": "512290",
+    "title": "Other Sound Recording Industries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#512290"
+  },
+  {
+    "code": "513110",
+    "title": "Newspaper Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#513110"
+  },
+  {
+    "code": "513120",
+    "title": "Periodical Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#513120"
+  },
+  {
+    "code": "513130",
+    "title": "Book Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#513130"
+  },
+  {
+    "code": "513140",
+    "title": "Directory and Mailing List Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#513140"
+  },
+  {
+    "code": "513191",
+    "title": "Greeting Card Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#513191"
+  },
+  {
+    "code": "513199",
+    "title": "All Other Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#513199"
+  },
+  {
+    "code": "513210",
+    "title": "Software Publishers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#513210"
+  },
+  {
+    "code": "516110",
+    "title": "Radio Broadcasting Stations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#516110"
+  },
+  {
+    "code": "516120",
+    "title": "Television Broadcasting Stations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#516120"
+  },
+  {
+    "code": "516210",
+    "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#516210"
+  },
+  {
+    "code": "517111",
+    "title": "Wired Telecommunications Carriers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#517111"
+  },
+  {
+    "code": "517112",
+    "title": "Wireless Telecommunications Carriers (except Satellite)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#517112"
+  },
+  {
+    "code": "517121",
+    "title": "Telecommunications Resellers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#517121"
+  },
+  {
+    "code": "517122",
+    "title": "Agents for Wireless Telecommunications Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#517122"
+  },
+  {
+    "code": "517410",
+    "title": "Satellite Telecommunications",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#517410"
+  },
+  {
+    "code": "517810",
+    "title": "All Other Telecommunications",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#517810"
+  },
+  {
+    "code": "518210",
+    "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#518210"
+  },
+  {
+    "code": "519210",
+    "title": "Libraries and Archives",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#519210"
+  },
+  {
+    "code": "519290",
+    "title": "Web Search Portals and All Other Information Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#519290"
+  },
+  {
+    "code": "521110",
+    "title": "Monetary Authorities-Central Bank",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#521110"
+  },
+  {
+    "code": "522110",
+    "title": "Commercial Banking",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522110"
+  },
+  {
+    "code": "522130",
+    "title": "Credit Unions",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522130"
+  },
+  {
+    "code": "522180",
+    "title": "Savings Institutions and Other Depository Credit Intermediation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522180"
+  },
+  {
+    "code": "522210",
+    "title": "Credit Card Issuing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522210"
+  },
+  {
+    "code": "522220",
+    "title": "Sales Financing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522220"
+  },
+  {
+    "code": "522291",
+    "title": "Consumer Lending",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522291"
+  },
+  {
+    "code": "522292",
+    "title": "Real Estate Credit",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522292"
+  },
+  {
+    "code": "522299",
+    "title": "International, Secondary Market, and All Other Nondepository Credit Intermediation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522299"
+  },
+  {
+    "code": "522310",
+    "title": "Mortgage and Nonmortgage Loan Brokers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522310"
+  },
+  {
+    "code": "522320",
+    "title": "Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522320"
+  },
+  {
+    "code": "522390",
+    "title": "Other Activities Related to Credit Intermediation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#522390"
+  },
+  {
+    "code": "523150",
+    "title": "Investment Banking and Securities Intermediation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#523150"
+  },
+  {
+    "code": "523160",
+    "title": "Commodity Contracts Intermediation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#523160"
+  },
+  {
+    "code": "523210",
+    "title": "Securities and Commodity Exchanges",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#523210"
+  },
+  {
+    "code": "523910",
+    "title": "Miscellaneous Intermediation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#523910"
+  },
+  {
+    "code": "523940",
+    "title": "Portfolio Management and Investment Advice",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#523940"
+  },
+  {
+    "code": "523991",
+    "title": "Trust, Fiduciary, and Custody Activities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#523991"
+  },
+  {
+    "code": "523999",
+    "title": "Miscellaneous Financial Investment Activities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#523999"
+  },
+  {
+    "code": "524113",
+    "title": "Direct Life Insurance Carriers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524113"
+  },
+  {
+    "code": "524114",
+    "title": "Direct Health and Medical Insurance Carriers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524114"
+  },
+  {
+    "code": "524126",
+    "title": "Direct Property and Casualty Insurance Carriers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524126"
+  },
+  {
+    "code": "524127",
+    "title": "Direct Title Insurance Carriers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524127"
+  },
+  {
+    "code": "524128",
+    "title": "Other Direct Insurance (except Life, Health, and Medical) Carriers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524128"
+  },
+  {
+    "code": "524130",
+    "title": "Reinsurance Carriers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524130"
+  },
+  {
+    "code": "524210",
+    "title": "Insurance Agencies and Brokerages",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524210"
+  },
+  {
+    "code": "524291",
+    "title": "Claims Adjusting",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524291"
+  },
+  {
+    "code": "524292",
+    "title": "Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524292"
+  },
+  {
+    "code": "524298",
+    "title": "All Other Insurance Related Activities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#524298"
+  },
+  {
+    "code": "525110",
+    "title": "Pension Funds",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#525110"
+  },
+  {
+    "code": "525120",
+    "title": "Health and Welfare Funds",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#525120"
+  },
+  {
+    "code": "525190",
+    "title": "Other Insurance Funds",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#525190"
+  },
+  {
+    "code": "525910",
+    "title": "Open-End Investment Funds",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#525910"
+  },
+  {
+    "code": "525920",
+    "title": "Trusts, Estates, and Agency Accounts",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#525920"
+  },
+  {
+    "code": "525990",
+    "title": "Other Financial Vehicles",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#525990"
+  },
+  {
+    "code": "531110",
+    "title": "Lessors of Residential Buildings and Dwellings",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531110"
+  },
+  {
+    "code": "531120",
+    "title": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531120"
+  },
+  {
+    "code": "531130",
+    "title": "Lessors of Miniwarehouses and Self-Storage Units",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531130"
+  },
+  {
+    "code": "531190",
+    "title": "Lessors of Other Real Estate Property",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531190"
+  },
+  {
+    "code": "531210",
+    "title": "Offices of Real Estate Agents and Brokers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531210"
+  },
+  {
+    "code": "531311",
+    "title": "Residential Property Managers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531311"
+  },
+  {
+    "code": "531312",
+    "title": "Nonresidential Property Managers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531312"
+  },
+  {
+    "code": "531320",
+    "title": "Offices of Real Estate Appraisers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531320"
+  },
+  {
+    "code": "531390",
+    "title": "Other Activities Related to Real Estate",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#531390"
+  },
+  {
+    "code": "532111",
+    "title": "Passenger Car Rental",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532111"
+  },
+  {
+    "code": "532112",
+    "title": "Passenger Car Leasing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532112"
+  },
+  {
+    "code": "532120",
+    "title": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532120"
+  },
+  {
+    "code": "532210",
+    "title": "Consumer Electronics and Appliances Rental",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532210"
+  },
+  {
+    "code": "532281",
+    "title": "Formal Wear and Costume Rental",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532281"
+  },
+  {
+    "code": "532282",
+    "title": "Video Tape and Disc Rental",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532282"
+  },
+  {
+    "code": "532283",
+    "title": "Home Health Equipment Rental",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532283"
+  },
+  {
+    "code": "532284",
+    "title": "Recreational Goods Rental",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532284"
+  },
+  {
+    "code": "532289",
+    "title": "All Other Consumer Goods Rental",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532289"
+  },
+  {
+    "code": "532310",
+    "title": "General Rental Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532310"
+  },
+  {
+    "code": "532411",
+    "title": "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532411"
+  },
+  {
+    "code": "532412",
+    "title": "Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532412"
+  },
+  {
+    "code": "532420",
+    "title": "Office Machinery and Equipment Rental and Leasing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532420"
+  },
+  {
+    "code": "532490",
+    "title": "Other Commercial and Industrial Machinery and Equipment Rental and Leasing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#532490"
+  },
+  {
+    "code": "533110",
+    "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#533110"
+  },
+  {
+    "code": "541110",
+    "title": "Offices of Lawyers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541110"
+  },
+  {
+    "code": "541120",
+    "title": "Offices of Notaries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541120"
+  },
+  {
+    "code": "541191",
+    "title": "Title Abstract and Settlement Offices",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541191"
+  },
+  {
+    "code": "541199",
+    "title": "All Other Legal Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541199"
+  },
+  {
+    "code": "541211",
+    "title": "Offices of Certified Public Accountants",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541211"
+  },
+  {
+    "code": "541213",
+    "title": "Tax Preparation Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541213"
+  },
+  {
+    "code": "541214",
+    "title": "Payroll Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541214"
+  },
+  {
+    "code": "541219",
+    "title": "Other Accounting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541219"
+  },
+  {
+    "code": "541310",
+    "title": "Architectural Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541310"
+  },
+  {
+    "code": "541320",
+    "title": "Landscape Architectural Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541320"
+  },
+  {
+    "code": "541330",
+    "title": "Engineering Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541330"
+  },
+  {
+    "code": "541340",
+    "title": "Drafting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541340"
+  },
+  {
+    "code": "541350",
+    "title": "Building Inspection Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541350"
+  },
+  {
+    "code": "541360",
+    "title": "Geophysical Surveying and Mapping Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541360"
+  },
+  {
+    "code": "541370",
+    "title": "Surveying and Mapping (except Geophysical) Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541370"
+  },
+  {
+    "code": "541380",
+    "title": "Testing Laboratories and Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541380"
+  },
+  {
+    "code": "541410",
+    "title": "Interior Design Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541410"
+  },
+  {
+    "code": "541420",
+    "title": "Industrial Design Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541420"
+  },
+  {
+    "code": "541430",
+    "title": "Graphic Design Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541430"
+  },
+  {
+    "code": "541490",
+    "title": "Other Specialized Design Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541490"
+  },
+  {
+    "code": "541511",
+    "title": "Custom Computer Programming Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541511"
+  },
+  {
+    "code": "541512",
+    "title": "Computer Systems Design Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541512"
+  },
+  {
+    "code": "541513",
+    "title": "Computer Facilities Management Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541513"
+  },
+  {
+    "code": "541519",
+    "title": "Other Computer Related Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541519"
+  },
+  {
+    "code": "541611",
+    "title": "Administrative Management and General Management Consulting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541611"
+  },
+  {
+    "code": "541612",
+    "title": "Human Resources Consulting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541612"
+  },
+  {
+    "code": "541613",
+    "title": "Marketing Consulting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541613"
+  },
+  {
+    "code": "541614",
+    "title": "Process, Physical Distribution, and Logistics Consulting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541614"
+  },
+  {
+    "code": "541618",
+    "title": "Other Management Consulting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541618"
+  },
+  {
+    "code": "541620",
+    "title": "Environmental Consulting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541620"
+  },
+  {
+    "code": "541690",
+    "title": "Other Scientific and Technical Consulting Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541690"
+  },
+  {
+    "code": "541713",
+    "title": "Research and Development in Nanotechnology",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541713"
+  },
+  {
+    "code": "541714",
+    "title": "Research and Development in Biotechnology (except Nanobiotechnology)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541714"
+  },
+  {
+    "code": "541715",
+    "title": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541715"
+  },
+  {
+    "code": "541720",
+    "title": "Research and Development in the Social Sciences and Humanities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541720"
+  },
+  {
+    "code": "541810",
+    "title": "Advertising Agencies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541810"
+  },
+  {
+    "code": "541820",
+    "title": "Public Relations Agencies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541820"
+  },
+  {
+    "code": "541830",
+    "title": "Media Buying Agencies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541830"
+  },
+  {
+    "code": "541840",
+    "title": "Media Representatives",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541840"
+  },
+  {
+    "code": "541850",
+    "title": "Indoor and Outdoor Display Advertising",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541850"
+  },
+  {
+    "code": "541860",
+    "title": "Direct Mail Advertising",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541860"
+  },
+  {
+    "code": "541870",
+    "title": "Advertising Material Distribution Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541870"
+  },
+  {
+    "code": "541890",
+    "title": "Other Services Related to Advertising",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541890"
+  },
+  {
+    "code": "541910",
+    "title": "Marketing Research and Public Opinion Polling",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541910"
+  },
+  {
+    "code": "541921",
+    "title": "Photography Studios, Portrait",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541921"
+  },
+  {
+    "code": "541922",
+    "title": "Commercial Photography",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541922"
+  },
+  {
+    "code": "541930",
+    "title": "Translation and Interpretation Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541930"
+  },
+  {
+    "code": "541940",
+    "title": "Veterinary Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541940"
+  },
+  {
+    "code": "541990",
+    "title": "All Other Professional, Scientific, and Technical Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#541990"
+  },
+  {
+    "code": "551111",
+    "title": "Offices of Bank Holding Companies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#551111"
+  },
+  {
+    "code": "551112",
+    "title": "Offices of Other Holding Companies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#551112"
+  },
+  {
+    "code": "551114",
+    "title": "Corporate, Subsidiary, and Regional Managing Offices",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#551114"
+  },
+  {
+    "code": "561110",
+    "title": "Office Administrative Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561110"
+  },
+  {
+    "code": "561210",
+    "title": "Facilities Support Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561210"
+  },
+  {
+    "code": "561311",
+    "title": "Employment Placement Agencies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561311"
+  },
+  {
+    "code": "561312",
+    "title": "Executive Search Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561312"
+  },
+  {
+    "code": "561320",
+    "title": "Temporary Help Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561320"
+  },
+  {
+    "code": "561330",
+    "title": "Professional Employer Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561330"
+  },
+  {
+    "code": "561410",
+    "title": "Document Preparation Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561410"
+  },
+  {
+    "code": "561421",
+    "title": "Telephone Answering Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561421"
+  },
+  {
+    "code": "561422",
+    "title": "Telemarketing Bureaus and Other Contact Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561422"
+  },
+  {
+    "code": "561431",
+    "title": "Private Mail Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561431"
+  },
+  {
+    "code": "561439",
+    "title": "Other Business Service Centers (including Copy Shops)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561439"
+  },
+  {
+    "code": "561440",
+    "title": "Collection Agencies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561440"
+  },
+  {
+    "code": "561450",
+    "title": "Credit Bureaus",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561450"
+  },
+  {
+    "code": "561491",
+    "title": "Repossession Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561491"
+  },
+  {
+    "code": "561492",
+    "title": "Court Reporting and Stenotype Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561492"
+  },
+  {
+    "code": "561499",
+    "title": "All Other Business Support Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561499"
+  },
+  {
+    "code": "561510",
+    "title": "Travel Agencies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561510"
+  },
+  {
+    "code": "561520",
+    "title": "Tour Operators",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561520"
+  },
+  {
+    "code": "561591",
+    "title": "Convention and Visitors Bureaus",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561591"
+  },
+  {
+    "code": "561599",
+    "title": "All Other Travel Arrangement and Reservation Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561599"
+  },
+  {
+    "code": "561611",
+    "title": "Investigation and Personal Background Check Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561611"
+  },
+  {
+    "code": "561612",
+    "title": "Security Guards and Patrol Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561612"
+  },
+  {
+    "code": "561613",
+    "title": "Armored Car Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561613"
+  },
+  {
+    "code": "561621",
+    "title": "Security Systems Services (except Locksmiths)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561621"
+  },
+  {
+    "code": "561622",
+    "title": "Locksmiths",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561622"
+  },
+  {
+    "code": "561710",
+    "title": "Exterminating and Pest Control Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561710"
+  },
+  {
+    "code": "561720",
+    "title": "Janitorial Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561720"
+  },
+  {
+    "code": "561730",
+    "title": "Landscaping Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561730"
+  },
+  {
+    "code": "561740",
+    "title": "Carpet and Upholstery Cleaning Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561740"
+  },
+  {
+    "code": "561790",
+    "title": "Other Services to Buildings and Dwellings",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561790"
+  },
+  {
+    "code": "561910",
+    "title": "Packaging and Labeling Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561910"
+  },
+  {
+    "code": "561920",
+    "title": "Convention and Trade Show Organizers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561920"
+  },
+  {
+    "code": "561990",
+    "title": "All Other Support Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#561990"
+  },
+  {
+    "code": "562111",
+    "title": "Solid Waste Collection",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562111"
+  },
+  {
+    "code": "562112",
+    "title": "Hazardous Waste Collection",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562112"
+  },
+  {
+    "code": "562119",
+    "title": "Other Waste Collection",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562119"
+  },
+  {
+    "code": "562211",
+    "title": "Hazardous Waste Treatment and Disposal",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562211"
+  },
+  {
+    "code": "562212",
+    "title": "Solid Waste Landfill",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562212"
+  },
+  {
+    "code": "562213",
+    "title": "Solid Waste Combustors and Incinerators",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562213"
+  },
+  {
+    "code": "562219",
+    "title": "Other Nonhazardous Waste Treatment and Disposal",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562219"
+  },
+  {
+    "code": "562910",
+    "title": "Remediation Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562910"
+  },
+  {
+    "code": "562920",
+    "title": "Materials Recovery Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562920"
+  },
+  {
+    "code": "562991",
+    "title": "Septic Tank and Related Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562991"
+  },
+  {
+    "code": "562998",
+    "title": "All Other Miscellaneous Waste Management Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#562998"
+  },
+  {
+    "code": "611110",
+    "title": "Elementary and Secondary Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611110"
+  },
+  {
+    "code": "611210",
+    "title": "Junior Colleges",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611210"
+  },
+  {
+    "code": "611310",
+    "title": "Colleges, Universities, and Professional Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611310"
+  },
+  {
+    "code": "611410",
+    "title": "Business and Secretarial Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611410"
+  },
+  {
+    "code": "611420",
+    "title": "Computer Training",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611420"
+  },
+  {
+    "code": "611430",
+    "title": "Professional and Management Development Training",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611430"
+  },
+  {
+    "code": "611511",
+    "title": "Cosmetology and Barber Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611511"
+  },
+  {
+    "code": "611512",
+    "title": "Flight Training",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611512"
+  },
+  {
+    "code": "611513",
+    "title": "Apprenticeship Training",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611513"
+  },
+  {
+    "code": "611519",
+    "title": "Other Technical and Trade Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611519"
+  },
+  {
+    "code": "611610",
+    "title": "Fine Arts Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611610"
+  },
+  {
+    "code": "611620",
+    "title": "Sports and Recreation Instruction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611620"
+  },
+  {
+    "code": "611630",
+    "title": "Language Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611630"
+  },
+  {
+    "code": "611691",
+    "title": "Exam Preparation and Tutoring",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611691"
+  },
+  {
+    "code": "611692",
+    "title": "Automobile Driving Schools",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611692"
+  },
+  {
+    "code": "611699",
+    "title": "All Other Miscellaneous Schools and Instruction",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611699"
+  },
+  {
+    "code": "611710",
+    "title": "Educational Support Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#611710"
+  },
+  {
+    "code": "621111",
+    "title": "Offices of Physicians (except Mental Health Specialists)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621111"
+  },
+  {
+    "code": "621112",
+    "title": "Offices of Physicians, Mental Health Specialists",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621112"
+  },
+  {
+    "code": "621210",
+    "title": "Offices of Dentists",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621210"
+  },
+  {
+    "code": "621310",
+    "title": "Offices of Chiropractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621310"
+  },
+  {
+    "code": "621320",
+    "title": "Offices of Optometrists",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621320"
+  },
+  {
+    "code": "621330",
+    "title": "Offices of Mental Health Practitioners (except Physicians)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621330"
+  },
+  {
+    "code": "621340",
+    "title": "Offices of Physical, Occupational and Speech Therapists, and Audiologists",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621340"
+  },
+  {
+    "code": "621391",
+    "title": "Offices of Podiatrists",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621391"
+  },
+  {
+    "code": "621399",
+    "title": "Offices of All Other Miscellaneous Health Practitioners",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621399"
+  },
+  {
+    "code": "621410",
+    "title": "Family Planning Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621410"
+  },
+  {
+    "code": "621420",
+    "title": "Outpatient Mental Health and Substance Abuse Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621420"
+  },
+  {
+    "code": "621491",
+    "title": "HMO Medical Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621491"
+  },
+  {
+    "code": "621492",
+    "title": "Kidney Dialysis Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621492"
+  },
+  {
+    "code": "621493",
+    "title": "Freestanding Ambulatory Surgical and Emergency Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621493"
+  },
+  {
+    "code": "621498",
+    "title": "All Other Outpatient Care Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621498"
+  },
+  {
+    "code": "621511",
+    "title": "Medical Laboratories",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621511"
+  },
+  {
+    "code": "621512",
+    "title": "Diagnostic Imaging Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621512"
+  },
+  {
+    "code": "621610",
+    "title": "Home Health Care Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621610"
+  },
+  {
+    "code": "621910",
+    "title": "Ambulance Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621910"
+  },
+  {
+    "code": "621991",
+    "title": "Blood and Organ Banks",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621991"
+  },
+  {
+    "code": "621999",
+    "title": "All Other Miscellaneous Ambulatory Health Care Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#621999"
+  },
+  {
+    "code": "622110",
+    "title": "General Medical and Surgical Hospitals",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#622110"
+  },
+  {
+    "code": "622210",
+    "title": "Psychiatric and Substance Abuse Hospitals",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#622210"
+  },
+  {
+    "code": "622310",
+    "title": "Specialty (except Psychiatric and Substance Abuse) Hospitals",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#622310"
+  },
+  {
+    "code": "623110",
+    "title": "Nursing Care Facilities (Skilled Nursing Facilities)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#623110"
+  },
+  {
+    "code": "623210",
+    "title": "Residential Intellectual and Developmental Disability Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#623210"
+  },
+  {
+    "code": "623220",
+    "title": "Residential Mental Health and Substance Abuse Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#623220"
+  },
+  {
+    "code": "623311",
+    "title": "Continuing Care Retirement Communities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#623311"
+  },
+  {
+    "code": "623312",
+    "title": "Assisted Living Facilities for the Elderly",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#623312"
+  },
+  {
+    "code": "623990",
+    "title": "Other Residential Care Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#623990"
+  },
+  {
+    "code": "624110",
+    "title": "Child and Youth Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624110"
+  },
+  {
+    "code": "624120",
+    "title": "Services for the Elderly and Persons with Disabilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624120"
+  },
+  {
+    "code": "624190",
+    "title": "Other Individual and Family Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624190"
+  },
+  {
+    "code": "624210",
+    "title": "Community Food Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624210"
+  },
+  {
+    "code": "624221",
+    "title": "Temporary Shelters",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624221"
+  },
+  {
+    "code": "624229",
+    "title": "Other Community Housing Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624229"
+  },
+  {
+    "code": "624230",
+    "title": "Emergency and Other Relief Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624230"
+  },
+  {
+    "code": "624310",
+    "title": "Vocational Rehabilitation Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624310"
+  },
+  {
+    "code": "624410",
+    "title": "Child Care Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#624410"
+  },
+  {
+    "code": "711110",
+    "title": "Theater Companies and Dinner Theaters",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711110"
+  },
+  {
+    "code": "711120",
+    "title": "Dance Companies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711120"
+  },
+  {
+    "code": "711130",
+    "title": "Musical Groups and Artists",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711130"
+  },
+  {
+    "code": "711190",
+    "title": "Other Performing Arts Companies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711190"
+  },
+  {
+    "code": "711211",
+    "title": "Sports Teams and Clubs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711211"
+  },
+  {
+    "code": "711212",
+    "title": "Racetracks",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711212"
+  },
+  {
+    "code": "711219",
+    "title": "Other Spectator Sports",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711219"
+  },
+  {
+    "code": "711310",
+    "title": "Promoters of Performing Arts, Sports, and Similar Events with Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711310"
+  },
+  {
+    "code": "711320",
+    "title": "Promoters of Performing Arts, Sports, and Similar Events without Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711320"
+  },
+  {
+    "code": "711410",
+    "title": "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711410"
+  },
+  {
+    "code": "711510",
+    "title": "Independent Artists, Writers, and Performers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#711510"
+  },
+  {
+    "code": "712110",
+    "title": "Museums",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#712110"
+  },
+  {
+    "code": "712120",
+    "title": "Historical Sites",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#712120"
+  },
+  {
+    "code": "712130",
+    "title": "Zoos and Botanical Gardens",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#712130"
+  },
+  {
+    "code": "712190",
+    "title": "Nature Parks and Other Similar Institutions",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#712190"
+  },
+  {
+    "code": "713110",
+    "title": "Amusement and Theme Parks",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713110"
+  },
+  {
+    "code": "713120",
+    "title": "Amusement Arcades",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713120"
+  },
+  {
+    "code": "713210",
+    "title": "Casinos (except Casino Hotels)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713210"
+  },
+  {
+    "code": "713290",
+    "title": "Other Gambling Industries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713290"
+  },
+  {
+    "code": "713910",
+    "title": "Golf Courses and Country Clubs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713910"
+  },
+  {
+    "code": "713920",
+    "title": "Skiing Facilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713920"
+  },
+  {
+    "code": "713930",
+    "title": "Marinas",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713930"
+  },
+  {
+    "code": "713940",
+    "title": "Fitness and Recreational Sports Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713940"
+  },
+  {
+    "code": "713950",
+    "title": "Bowling Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713950"
+  },
+  {
+    "code": "713990",
+    "title": "All Other Amusement and Recreation Industries",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#713990"
+  },
+  {
+    "code": "721110",
+    "title": "Hotels (except Casino Hotels) and Motels",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#721110"
+  },
+  {
+    "code": "721120",
+    "title": "Casino Hotels",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#721120"
+  },
+  {
+    "code": "721191",
+    "title": "Bed-and-Breakfast Inns",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#721191"
+  },
+  {
+    "code": "721199",
+    "title": "All Other Traveler Accommodation",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#721199"
+  },
+  {
+    "code": "721211",
+    "title": "RV (Recreational Vehicle) Parks and Campgrounds",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#721211"
+  },
+  {
+    "code": "721214",
+    "title": "Recreational and Vacation Camps (except Campgrounds)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#721214"
+  },
+  {
+    "code": "721310",
+    "title": "Rooming and Boarding Houses, Dormitories, and Workers' Camps",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#721310"
+  },
+  {
+    "code": "722310",
+    "title": "Food Service Contractors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722310"
+  },
+  {
+    "code": "722320",
+    "title": "Caterers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722320"
+  },
+  {
+    "code": "722330",
+    "title": "Mobile Food Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722330"
+  },
+  {
+    "code": "722410",
+    "title": "Drinking Places (Alcoholic Beverages)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722410"
+  },
+  {
+    "code": "722511",
+    "title": "Full-Service Restaurants",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722511"
+  },
+  {
+    "code": "722513",
+    "title": "Limited-Service Restaurants",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722513"
+  },
+  {
+    "code": "722514",
+    "title": "Cafeterias, Grill Buffets, and Buffets",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722514"
+  },
+  {
+    "code": "722515",
+    "title": "Snack and Nonalcoholic Beverage Bars",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#722515"
+  },
+  {
+    "code": "811111",
+    "title": "General Automotive Repair",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811111"
+  },
+  {
+    "code": "811114",
+    "title": "Specialized Automotive Repair",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811114"
+  },
+  {
+    "code": "811121",
+    "title": "Automotive Body, Paint, and Interior Repair and Maintenance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811121"
+  },
+  {
+    "code": "811122",
+    "title": "Automotive Glass Replacement Shops",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811122"
+  },
+  {
+    "code": "811191",
+    "title": "Automotive Oil Change and Lubrication Shops",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811191"
+  },
+  {
+    "code": "811192",
+    "title": "Car Washes",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811192"
+  },
+  {
+    "code": "811198",
+    "title": "All Other Automotive Repair and Maintenance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811198"
+  },
+  {
+    "code": "811210",
+    "title": "Electronic and Precision Equipment Repair and Maintenance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811210"
+  },
+  {
+    "code": "811310",
+    "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811310"
+  },
+  {
+    "code": "811411",
+    "title": "Home and Garden Equipment Repair and Maintenance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811411"
+  },
+  {
+    "code": "811412",
+    "title": "Appliance Repair and Maintenance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811412"
+  },
+  {
+    "code": "811420",
+    "title": "Reupholstery and Furniture Repair",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811420"
+  },
+  {
+    "code": "811430",
+    "title": "Footwear and Leather Goods Repair",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811430"
+  },
+  {
+    "code": "811490",
+    "title": "Other Personal and Household Goods Repair and Maintenance",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#811490"
+  },
+  {
+    "code": "812111",
+    "title": "Barber Shops",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812111"
+  },
+  {
+    "code": "812112",
+    "title": "Beauty Salons",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812112"
+  },
+  {
+    "code": "812113",
+    "title": "Nail Salons",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812113"
+  },
+  {
+    "code": "812191",
+    "title": "Diet and Weight Reducing Centers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812191"
+  },
+  {
+    "code": "812199",
+    "title": "Other Personal Care Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812199"
+  },
+  {
+    "code": "812210",
+    "title": "Funeral Homes and Funeral Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812210"
+  },
+  {
+    "code": "812220",
+    "title": "Cemeteries and Crematories",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812220"
+  },
+  {
+    "code": "812310",
+    "title": "Coin-Operated Laundries and Drycleaners",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812310"
+  },
+  {
+    "code": "812320",
+    "title": "Drycleaning and Laundry Services (except Coin-Operated)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812320"
+  },
+  {
+    "code": "812331",
+    "title": "Linen Supply",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812331"
+  },
+  {
+    "code": "812332",
+    "title": "Industrial Launderers",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812332"
+  },
+  {
+    "code": "812910",
+    "title": "Pet Care (except Veterinary) Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812910"
+  },
+  {
+    "code": "812921",
+    "title": "Photofinishing Laboratories (except One-Hour)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812921"
+  },
+  {
+    "code": "812922",
+    "title": "One-Hour Photofinishing",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812922"
+  },
+  {
+    "code": "812930",
+    "title": "Parking Lots and Garages",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812930"
+  },
+  {
+    "code": "812990",
+    "title": "All Other Personal Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#812990"
+  },
+  {
+    "code": "813110",
+    "title": "Religious Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813110"
+  },
+  {
+    "code": "813211",
+    "title": "Grantmaking Foundations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813211"
+  },
+  {
+    "code": "813212",
+    "title": "Voluntary Health Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813212"
+  },
+  {
+    "code": "813219",
+    "title": "Other Grantmaking and Giving Services",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813219"
+  },
+  {
+    "code": "813311",
+    "title": "Human Rights Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813311"
+  },
+  {
+    "code": "813312",
+    "title": "Environment, Conservation and Wildlife Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813312"
+  },
+  {
+    "code": "813319",
+    "title": "Other Social Advocacy Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813319"
+  },
+  {
+    "code": "813410",
+    "title": "Civic and Social Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813410"
+  },
+  {
+    "code": "813910",
+    "title": "Business Associations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813910"
+  },
+  {
+    "code": "813920",
+    "title": "Professional Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813920"
+  },
+  {
+    "code": "813930",
+    "title": "Labor Unions and Similar Labor Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813930"
+  },
+  {
+    "code": "813940",
+    "title": "Political Organizations",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813940"
+  },
+  {
+    "code": "813990",
+    "title": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#813990"
+  },
+  {
+    "code": "814110",
+    "title": "Private Households",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#814110"
+  },
+  {
+    "code": "921110",
+    "title": "Executive Offices",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#921110"
+  },
+  {
+    "code": "921120",
+    "title": "Legislative Bodies",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#921120"
+  },
+  {
+    "code": "921130",
+    "title": "Public Finance Activities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#921130"
+  },
+  {
+    "code": "921140",
+    "title": "Executive and Legislative Offices, Combined",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#921140"
+  },
+  {
+    "code": "921150",
+    "title": "American Indian and Alaska Native Tribal Governments",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#921150"
+  },
+  {
+    "code": "921190",
+    "title": "Other General Government Support",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#921190"
+  },
+  {
+    "code": "922110",
+    "title": "Courts",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#922110"
+  },
+  {
+    "code": "922120",
+    "title": "Police Protection",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#922120"
+  },
+  {
+    "code": "922130",
+    "title": "Legal Counsel and Prosecution",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#922130"
+  },
+  {
+    "code": "922140",
+    "title": "Correctional Institutions",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#922140"
+  },
+  {
+    "code": "922150",
+    "title": "Parole Offices and Probation Offices",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#922150"
+  },
+  {
+    "code": "922160",
+    "title": "Fire Protection",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#922160"
+  },
+  {
+    "code": "922190",
+    "title": "Other Justice, Public Order, and Safety Activities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#922190"
+  },
+  {
+    "code": "923110",
+    "title": "Administration of Education Programs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#923110"
+  },
+  {
+    "code": "923120",
+    "title": "Administration of Public Health Programs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#923120"
+  },
+  {
+    "code": "923130",
+    "title": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#923130"
+  },
+  {
+    "code": "923140",
+    "title": "Administration of Veterans' Affairs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#923140"
+  },
+  {
+    "code": "924110",
+    "title": "Administration of Air and Water Resource and Solid Waste Management Programs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#924110"
+  },
+  {
+    "code": "924120",
+    "title": "Administration of Conservation Programs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#924120"
+  },
+  {
+    "code": "925110",
+    "title": "Administration of Housing Programs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#925110"
+  },
+  {
+    "code": "925120",
+    "title": "Administration of Urban Planning and Community and Rural Development",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#925120"
+  },
+  {
+    "code": "926110",
+    "title": "Administration of General Economic Programs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#926110"
+  },
+  {
+    "code": "926120",
+    "title": "Regulation and Administration of Transportation Programs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#926120"
+  },
+  {
+    "code": "926130",
+    "title": "Regulation and Administration of Communications, Electric, Gas, and Other Utilities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#926130"
+  },
+  {
+    "code": "926140",
+    "title": "Regulation of Agricultural Marketing and Commodities",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#926140"
+  },
+  {
+    "code": "926150",
+    "title": "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#926150"
+  },
+  {
+    "code": "927110",
+    "title": "Space Research and Technology",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#927110"
+  },
+  {
+    "code": "928110",
+    "title": "National Security",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#928110"
+  },
+  {
+    "code": "928120",
+    "title": "International Affairs",
+    "url": "https://nadhinad99-creator.github.io/NAICS-2022/naics_2022_6digit_public.html#928120"
+  }
+]
