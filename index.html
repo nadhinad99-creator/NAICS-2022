@@ -79,8 +79,8 @@
 
 <script>
 // ======== CONFIG (local files in the same folder) ========
-const DATA_URL = "naics_2022_6digit_public";      // upload alongside this HTML
-const LEGACY_MAP_URL = "codes.json";   // upload alongside this HTML
+const DATA_URL = "naics_2022_enriched_fixed4.json";      // upload alongside this HTML
+const LEGACY_MAP_URL = "naics_legacy_to_2022_map.json";   // upload alongside this HTML
 
 // ======== STATE ========
 let NAICS = [];      // 2022 entries
@@ -193,7 +193,9 @@ function renderAll(){
       <td class="links">
         ${x.CensusLink? `<a href="${escapeAttr(x.CensusLink)}" target="_blank" rel="noopener">Census 2022</a>`:''}
         ${x.NAICSComLink? `<a href="${escapeAttr(x.NAICSComLink)}" target="_blank" rel="noopener">NAICS.com 2022</a>`:''}
-      </td>`;
+      
+      <a href="naics_2022_6digit_public.html#${escapeAttr(x.Code)}" target="_blank" rel="noopener">SOT Anchor</a>
+    </td>`;
     rowsEl.appendChild(tr);
   }
   countEl.textContent = `${total} result(s)`;
