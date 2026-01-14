@@ -10,29 +10,27 @@
       --accent:#60a5fa; --accent2:#3b82f6; --danger:#ef4444; --border:#1f2937; --link:#93c5fd;
     }
     html,body{height:100%}
-    body{margin:0; font-family:system-ui, Segoe UI, Roboto, Arial, sans-serif; color:var(--text); background:var(--bg);}
-    .wrap{max-width:1200px; margin:40px auto; padding:0 20px;}
-    h1{font-size:28px; margin:0 0 8px;}
-    .sub{color:var(--muted); margin-bottom:16px;}
-    .bar{display:flex; gap:10px; align-items:center; background:var(--panel); border:1px solid var(--border); border-radius:10px; padding:12px;}
-    .bar input{flex:1; background:var(--panel2); border:1px solid var(--border); color:var(--text); border-radius:8px; padding:10px 12px; font-size:16px;}
-    .btn{background:var(--accent); border:1px solid var(--accent2); color:#fff; padding:10px 16px; border-radius:8px; cursor:pointer; font-weight:600;}
-    .btn.secondary{ background:transparent; border:1px solid var(--border); color:var(--text); }
-    .btn:disabled{ opacity:.6; cursor:not-allowed; }
-    .tip{ color:var(--muted); margin:12px 0 2px; font-size:14px; }
-    .filters{ display:flex; gap:10px; align-items:center; margin:10px 0 6px; }
-    .filters select{ background:var(--panel2); border:1px solid var(--border); color:var(--text); border-radius:8px; padding:8px; min-width:220px; }
-    .count{ margin:10px 0 18px; color:var(--muted); }
-    .source{ display:inline-flex; align-items:center; gap:8px; background:var(--panel); border:1px solid var(--border); color:var(--muted); padding:8px 12px; border-radius:999px; font-size:13px; }
-    .table{ width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--border); border-radius:10px; overflow:hidden; }
-    .table th, .table td{ padding:10px 12px; border-bottom:1px solid var(--border); vertical-align:top; font-size:14px; }
-    .table th{ text-align:left; color:#cbd5e1; background:#0e162a; position:sticky; top:0; }
-    .hier{ color:var(--muted); }
-    .links a{ color:var(--link); text-decoration:none; margin-right:10px; }
-    .banner{ border-left:4px solid var(--danger); background:#1b0f10; color:#fecaca; padding:14px 12px; border-radius:8px; margin:12px 0; }
-    .footer{ color:var(--muted); font-size:13px; margin-top:16px; }
-    .pager{ display:flex; gap:12px; align-items:center; margin:10px 0; }
-    .pager .btn{ padding:8px 12px; }
+    body{margin:0; font-family:system-ui, Segoe UI, Roboto, Arial, sans-serif; color:var(--text); background:var(--bg);} 
+    .wrap{max-width:1200px; margin:40px auto; padding:0 20px;} 
+    h1{font-size:28px; margin:0 0 8px;} 
+    .sub{color:var(--muted); margin-bottom:16px;} 
+    .bar{display:flex; gap:10px; align-items:center; background:var(--panel); border:1px solid var(--border); border-radius:10px; padding:12px;} 
+    .bar input{flex:1; background:var(--panel2); border:1px solid var(--border); color:var(--text); border-radius:8px; padding:10px 12px; font-size:16px;} 
+    .btn{background:var(--accent); border:1px solid var(--accent2); color:#fff; padding:10px 16px; border-radius:8px; cursor:pointer; font-weight:600;} 
+    .btn.secondary{ background:transparent; border:1px solid var(--border); color:var(--text); } 
+    .btn:disabled{ opacity:.6; cursor:not-allowed; } 
+    .tip{ color:var(--muted); margin:12px 0 2px; font-size:14px; } 
+    .filters{ display:flex; gap:10px; align-items:center; margin:10px 0 6px; flex-wrap:wrap; } 
+    .filters select{ background:var(--panel2); border:1px solid var(--border); color:var(--text); border-radius:8px; padding:8px; min-width:220px; } 
+    .count{ margin:10px 0 18px; color:var(--muted); } 
+    .source{ display:inline-flex; align-items:center; gap:8px; background:var(--panel); border:1px solid var(--border); color:var(--muted); padding:8px 12px; border-radius:999px; font-size:13px; } 
+    .table{ width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--border); border-radius:10px; overflow:hidden; } 
+    .table th, .table td{ padding:10px 12px; border-bottom:1px solid var(--border); vertical-align:top; font-size:14px; } 
+    .table th{ text-align:left; color:#cbd5e1; background:#0e162a; position:sticky; top:0; } 
+    .hier{ color:var(--muted); } 
+    .links a{ color:var(--link); text-decoration:none; margin-right:10px; } 
+    .banner{ border-left:4px solid var(--danger); background:#1b0f10; color:#fecaca; padding:14px 12px; border-radius:8px; margin:12px 0; } 
+    .footer{ color:var(--muted); font-size:13px; margin-top:16px; } 
     .error{ border-left:4px solid #f59e0b; background:#331f11; color:#fde68a; padding:12px; border-radius:8px; margin:12px 0; }
   </style>
 </head>
@@ -40,6 +38,7 @@
 <div class="wrap">
   <h1>NAICS (2022) Search</h1>
   <div class="sub">Single Source of Truth — strictly from <code>NAICS_2022_SOT</code>. Legacy codes (e.g., <code>454110</code>) are intentionally excluded.</div>
+
   <div class="bar">
     <input id="q" type="text" placeholder="Type a 6-digit code or keywords (e.g., 513210 or ‘online apparel retailer’)" />
     <button id="searchBtn" class="btn">Search</button>
@@ -47,17 +46,21 @@
     <button id="csvBtn" class="btn secondary">Export CSV</button>
   </div>
   <div class="tip">Tip: Type a <strong>6-digit code</strong> for an exact lookup, or words like <em>“online apparel retailer”</em>. Queries containing the legacy code <code>454110</code> will be blocked with a guidance message.</div>
+
   <div class="filters">
     <select id="sectorSel"><option value="">All sectors</option></select>
     <select id="subsectorSel"><option value="">All subsectors</option></select>
     <select id="groupSel"><option value="">All industry groups</option></select>
   </div>
+
   <div class="count">
     <span id="resultCount">0 result(s)</span> &nbsp;
     <span class="source">Source: NAICS_2022_SOT</span>
   </div>
+
   <div id="errorBox"></div>
   <div id="bannerContainer"></div>
+
   <table class="table" id="tbl">
     <thead>
       <tr>
@@ -70,24 +73,19 @@
     </thead>
     <tbody id="rows"></tbody>
   </table>
-  <div class="pager">
-    <button id="prevBtn" class="btn secondary">◀ Prev</button>
-    <span id="pageInfo" class="sub">Page 1 / 1</span>
-    <button id="nextBtn" class="btn secondary">Next ▶</button>
-  </div>
+
   <div class="footer">© NAICS (2022) — curated by Nadhirah. This page runs locally in your browser using the JSON file(s).</div>
 </div>
+
 <script>
-// ======== CONFIG: point to your hosted files ========
-const DATA_URL = "naics_2022_enriched_fixed4.json"; // upload alongside index.html
-const LEGACY_MAP_URL = "naics_legacy_to_2022_map.json"; // upload alongside index.html
+// ======== CONFIG (local files in the same folder) ========
+const DATA_URL = "naics_2022_enriched_fixed4.json";      // upload alongside this HTML
+const LEGACY_MAP_URL = "naics_legacy_to_2022_map.json";   // upload alongside this HTML
 
 // ======== STATE ========
 let NAICS = [];      // 2022 entries
 let LEGACY = null;   // legacy->2022 mapping
-let filtered = [];
-let page = 1;
-const PAGE_SIZE = 25;
+let filtered = [];   // results to render (all on one page)
 
 // Elements
 const qEl = document.getElementById("q");
@@ -98,7 +96,6 @@ const errorEl = document.getElementById("errorBox");
 const sectorSel = document.getElementById("sectorSel");
 const subsectorSel = document.getElementById("subsectorSel");
 const groupSel = document.getElementById("groupSel");
-const pageInfo = document.getElementById("pageInfo");
 
 // ======== LOAD ========
 Promise.all([
@@ -108,9 +105,9 @@ Promise.all([
   NAICS = normalize(naics);
   LEGACY = legacy && legacy.mapping ? legacy.mapping : null;
   populateFilters(NAICS);
-  applySearch();
+  applySearch(); // initial render
 }).catch(err => {
-  errorEl.innerHTML = `<div class="error"><strong>Unable to load dataset.</strong> ${escapeHtml(String(err))}<br>Ensure <code>${escapeHtml(DATA_URL)}</code> is uploaded next to this HTML.</div>`;
+  errorEl.innerHTML = `<div class=\"error\"><strong>Unable to load dataset.</strong> ${escapeHtml(String(err))}<br>Ensure <code>${escapeHtml(DATA_URL)}</code> is uploaded next to this HTML.</div>`;
 });
 
 // ======== NORMALIZE ========
@@ -122,7 +119,7 @@ function normalize(list){
     const Code = String(e.Code ?? e.code ?? "").trim();
     const Title = String(e.Title ?? e.title ?? "").trim();
     const Description = String(e.Description ?? e.description ?? "").trim();
-    const FirstSentence = String(e.FirstSentence ?? '').trim();
+    const FirstSentence = String(e.FirstSentence ?? "").trim();
     const CensusLink = e.Census_2022_link ?? e.census_2022_link ?? e.census_link ?? "";
     const NAICSComLink = e["NAICS.com_link"] ?? e.naicscom_link ?? e.naics_link ?? "";
     const Sector = e.Sector ?? e.sector ?? "";
@@ -148,16 +145,18 @@ function populateFilters(data){
 }
 function addOpt(sel, v){ const o=document.createElement("option"); o.value=v; o.textContent=v; sel.appendChild(o); }
 
-// ======== SEARCH ========
+// ======== SEARCH (no pagination; render all) ========
 function applySearch(){
   clearBanner();
   const term = qEl.value.trim().toLowerCase();
   const codeMatch = term.match(/^\d{6}$/);
   let items = NAICS.slice();
-  // apply facet filters
+
+  // Facet filters
   const s = sectorSel.value, ss = subsectorSel.value, g = groupSel.value;
   items = items.filter(x=> (!s || x.Sector===s) && (!ss || x.Subsector===ss) && (!g || x.IndustryGroup===g));
 
+  // Query handling
   if(term){
     if(codeMatch){
       const code = codeMatch[0];
@@ -166,25 +165,23 @@ function applySearch(){
         if(m.block){ showLegacyBanner(code,m); items = []; }
         else if(m.target){ items = items.filter(x=> x.Code===m.target); }
         else { items = items.filter(x=> x.Code===code); }
-      }else{ items = items.filter(x=> x.Code===code); }
+      }else{
+        items = items.filter(x=> x.Code===code);
+      }
     }else{
       items = items.filter(x=> (x.Title+" "+x.Description).toLowerCase().includes(term));
     }
   }
+
   filtered = items;
-  page = 1;
-  renderPage();
+  renderAll(); // render everything in one page
 }
 
-// ======== RENDER ========
-function renderPage(){
-  const total = filtered.length;
-  const pages = Math.max(1, Math.ceil(total / PAGE_SIZE));
-  if(page>pages) page=pages;
-  const start = (page-1)*PAGE_SIZE;
-  const slice = filtered.slice(start, start+PAGE_SIZE);
+// ======== RENDER (all rows) ========
+function renderAll(){
   rowsEl.innerHTML = '';
-  for(const x of slice){
+  const total = filtered.length;
+  for(const x of filtered){
     const tr = document.createElement('tr');
     const hier = [x.Sector, x.Subsector, x.IndustryGroup, x.Parent5].filter(Boolean).join(' · ');
     const first = (x.FirstSentence && x.FirstSentence.length >= 12) ? x.FirstSentence : x.Description;
@@ -200,7 +197,6 @@ function renderPage(){
     rowsEl.appendChild(tr);
   }
   countEl.textContent = `${total} result(s)`;
-  pageInfo.textContent = `Page ${page} / ${pages}`;
 }
 
 // ======== BANNERS & CSV ========
@@ -210,8 +206,8 @@ function showLegacyBanner(code,m){
   bannerEl.innerHTML = `
     <div class="banner">
       <div><strong>Legacy code “${escapeHtml(code)}”</strong> is not used in NAICS 2022.</div>
-      ${note? `<div style="margin-top:6px">${escapeHtml(note)}</div>`:''}
-      ${recs? `<div style="margin-top:6px">Recommended 2022 code(s): <strong>${escapeHtml(recs)}</strong>.</div>`:''}
+      ${note? `<div style=\"margin-top:6px\">${escapeHtml(note)}</div>`:''}
+      ${recs? `<div style=\"margin-top:6px\">Recommended 2022 code(s): <strong>${escapeHtml(recs)}</strong>.</div>`:''}
       <div style="margin-top:6px">Retail is classified by <strong>product line</strong> in 2022. Please search by product (e.g., <em>apparel retailer</em>, <em>book retailer</em>) or use a relevant 2022 code.</div>
     </div>`;
 }
@@ -236,8 +232,6 @@ function exportCSV(){
 document.getElementById('searchBtn').addEventListener('click', applySearch);
 document.getElementById('clearBtn').addEventListener('click', ()=>{ qEl.value=''; sectorSel.value=''; subsectorSel.value=''; groupSel.value=''; clearBanner(); applySearch(); });
 document.getElementById('csvBtn').addEventListener('click', exportCSV);
-document.getElementById('prevBtn').addEventListener('click', ()=>{ if(page>1){ page--; renderPage(); } });
-document.getElementById('nextBtn').addEventListener('click', ()=>{ const pages=Math.max(1,Math.ceil(filtered.length/PAGE_SIZE)); if(page<pages){ page++; renderPage(); } });
 qEl.addEventListener('keydown', e=>{ if(e.key==='Enter') applySearch(); });
 sectorSel.addEventListener('change', applySearch); subsectorSel.addEventListener('change', applySearch); groupSel.addEventListener('change', applySearch);
 
